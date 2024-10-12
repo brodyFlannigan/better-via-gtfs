@@ -1,0 +1,74 @@
+{
+  "agencies": [
+    {
+      "agency_id": "VIA",
+      "agency_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "VIA Rail Canada"
+          }
+        ]
+      },
+      "agency_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr"
+          }
+        ]
+      },
+      "agency_lang": "en",
+      "agency_timezone": "America/Toronto"
+    }
+  ],
+  "routes": [
+    {
+      "agency_id": "VIA",
+      "route_id": "SKN",
+      "route_short_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "The Skeena"
+          },
+          {
+            "lang": "fr",
+            "translation": "Le Skeena"
+          }
+        ]
+      },
+      "route_long_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "Jasper - Prince George - Prince Rupert"
+          }
+        ]
+      },
+      "route_type": "1",
+      "route_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en/explore-our-destinations/trains/regional-trains/jasper-prince-rupert"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr/decouvrez-nos-destinations/trains/trains-regionaux/jasper-prince-rupert"
+          }
+        ]
+      },
+      "route_color": "EA63A3",
+      "route_text_color": "FFFFFF",
+      "timetable_urls": [
+        "https://www.viarail.ca/en/plan/train-schedules/jasper-prince-george-prince-rupert",
+        "https://www.viarail.ca/en/plan/train-schedules/prince-rupert-prince-george-jasper"
+      ]
+    }
+  ]
+}

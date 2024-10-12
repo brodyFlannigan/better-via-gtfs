@@ -1,0 +1,7817 @@
+[
+  {
+    "synonyms": [
+      "Mtl",
+      "Gare Centrale",
+      "Central Station",
+      "Montreal",
+      "Quebec",
+      "Québec",
+      "Montréal"
+    ],
+    "_u_i_c_station_code": "MTRL",
+    "name": "Montréal",
+    "short_code": "MTRL",
+    "country_code": "CAN",
+    "additional_info": "Gare Centrale",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "895 Rue de la Gauchetière Ouest",
+    "city": "Montréal",
+    "province": "QC",
+    "postal_code": "H3B 4G1",
+    "geo_data": {
+      "latitude": "45.5001121",
+      "longitude": "-73.5665224",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "MTR"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "CWLL",
+    "name": "Cornwall",
+    "short_code": "CWLL",
+    "country_code": "CAN",
+    "additional_info": "Cornwall",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "1650 Station Rd",
+    "city": "Cornwall",
+    "province": "ON",
+    "postal_code": "K6H 7E7",
+    "geo_data": {
+      "latitude": "45.0417765",
+      "longitude": "-74.7435764",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "BRKV",
+    "name": "Brockville",
+    "short_code": "BRKV",
+    "country_code": "CAN",
+    "additional_info": "Brockville",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "141 Perth Street",
+    "city": "Brockville",
+    "province": "ON",
+    "postal_code": "K6V 5E4",
+    "geo_data": {
+      "latitude": "44.59220699999999",
+      "longitude": "-75.69285300000001",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "GANA",
+    "name": "Gananoque",
+    "short_code": "GANA",
+    "country_code": "CAN",
+    "additional_info": "Gananoque",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "472 Station Rd.",
+    "city": "Gananoque",
+    "province": "ON",
+    "postal_code": "K7G 2V3",
+    "geo_data": {
+      "latitude": "44.3686962",
+      "longitude": "-76.15372769999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Barrhaven", "Ontario"],
+    "_u_i_c_station_code": "FALL",
+    "name": "Fallowfield",
+    "short_code": "FALL",
+    "country_code": "CAN",
+    "additional_info": "Fallowfield",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "3347 Fallowfield Rd.",
+    "city": "Barrhaven",
+    "province": "ON",
+    "postal_code": "K2J 5K9",
+    "geo_data": {
+      "latitude": "45.29927439999999",
+      "longitude": "-75.73653790000003",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "KGON",
+    "name": "Kingston",
+    "short_code": "KGON",
+    "country_code": "CAN",
+    "additional_info": "Kingston",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "1800 John Counter Blvd",
+    "city": "Kingston",
+    "province": "ON",
+    "postal_code": "K7M 7H3",
+    "geo_data": {
+      "latitude": "44.25722589999999",
+      "longitude": "-76.53680209999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "KGO"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "NAPN",
+    "name": "Napanee",
+    "short_code": "NAPN",
+    "country_code": "CAN",
+    "additional_info": "Napanee",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "301 John St.",
+    "city": "Napanee",
+    "province": "ON",
+    "postal_code": "K7R 3L3",
+    "geo_data": {
+      "latitude": "44.253560477074636",
+      "longitude": "-76.95433616638184",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "SMTF",
+    "name": "Smiths Falls",
+    "short_code": "SMTF",
+    "country_code": "CAN",
+    "additional_info": "Smiths Falls",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "46 Union Street",
+    "city": "Smiths Falls",
+    "province": "ON",
+    "postal_code": "K7A 5C4",
+    "geo_data": {
+      "latitude": "44.9125345",
+      "longitude": "-76.02388880000001",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "BRTF",
+    "name": "Brantford",
+    "short_code": "BRTF",
+    "country_code": "CAN",
+    "additional_info": "Brantford",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "5 Wadsworth Street",
+    "city": "Brantford",
+    "province": "ON",
+    "postal_code": "N3T 3V5",
+    "geo_data": {
+      "latitude": "43.1465439",
+      "longitude": "-80.26561400000003",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "BLVL",
+    "name": "Belleville",
+    "short_code": "BLVL",
+    "country_code": "CAN",
+    "additional_info": "Belleville",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "250 Station St.",
+    "city": "Belleville",
+    "province": "ON",
+    "postal_code": "K8N 2T8",
+    "geo_data": {
+      "latitude": "44.179634",
+      "longitude": "-77.3741244",
+      "zoom": 14
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "WDST",
+    "name": "Woodstock",
+    "short_code": "WDST",
+    "country_code": "CAN",
+    "additional_info": "Woodstock",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "100 Victoria St. South",
+    "city": "Woodstock",
+    "province": "ON",
+    "postal_code": "N4S 8R4",
+    "geo_data": {
+      "latitude": "43.1262797",
+      "longitude": "-80.75179120000001",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "INGR",
+    "name": "Ingersoll",
+    "short_code": "INGR",
+    "country_code": "CAN",
+    "additional_info": "Ingersoll",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "1 Thames Street North",
+    "city": "Ingersoll",
+    "province": "ON",
+    "postal_code": "N5C 3C6",
+    "geo_data": {
+      "latitude": "43.040539",
+      "longitude": "-80.8879038",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "OTTW",
+    "name": "Ottawa",
+    "short_code": "OTTW",
+    "country_code": "CAN",
+    "additional_info": "Ottawa",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "200 Tremblay Rd",
+    "city": "Ottawa",
+    "province": "ON",
+    "postal_code": "K1G 3H5",
+    "geo_data": {
+      "latitude": "45.4163374",
+      "longitude": "-75.65172319999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "OTT"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "LNDN",
+    "name": "London",
+    "short_code": "LNDN",
+    "country_code": "CAN",
+    "additional_info": "London",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "205 York St.",
+    "city": "London",
+    "province": "ON",
+    "postal_code": "N6A 1B1",
+    "geo_data": {
+      "latitude": "42.98138549999999",
+      "longitude": "-81.24662999999998",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "LND"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Trenton JCT", "Ontario"],
+    "_u_i_c_station_code": "TRNJ",
+    "name": "Trenton Junction",
+    "short_code": "TRNJ",
+    "country_code": "CAN",
+    "additional_info": "Trenton Junction",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "18277B Telephone Rd",
+    "city": "Trenton",
+    "province": "ON",
+    "postal_code": "K8V 5P9",
+    "geo_data": {
+      "latitude": "44.11529030867497",
+      "longitude": "-77.59892463684082",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "GLNC",
+    "name": "Glencoe",
+    "short_code": "GLNC",
+    "country_code": "CAN",
+    "additional_info": "Glencoe",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "151 McRae St.",
+    "city": "Glencoe",
+    "province": "ON",
+    "postal_code": "N0L 1M0",
+    "geo_data": {
+      "latitude": "42.7468834",
+      "longitude": "-81.71063620000001",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "CBRG",
+    "name": "Cobourg",
+    "short_code": "CBRG",
+    "country_code": "CAN",
+    "additional_info": "Cobourg",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "563 Division street",
+    "city": "Cobourg",
+    "province": "ON",
+    "postal_code": "K9A 3S6",
+    "geo_data": {
+      "latitude": "43.9678916",
+      "longitude": "-78.17066420000003",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "CHAT",
+    "name": "Chatham",
+    "short_code": "CHAT",
+    "country_code": "CAN",
+    "additional_info": "Chatham",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "360 Queen St.",
+    "city": "Chatham",
+    "province": "ON",
+    "postal_code": "N7M 2H6",
+    "geo_data": {
+      "latitude": "42.3970518",
+      "longitude": "-82.17963650000002",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "PHOP",
+    "name": "Port Hope",
+    "short_code": "PHOP",
+    "country_code": "CAN",
+    "additional_info": "Port Hope",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "Hayward Street",
+    "city": "Port Hope",
+    "province": "ON",
+    "postal_code": "K7A 5C4",
+    "geo_data": {
+      "latitude": "43.943518416070965",
+      "longitude": "-78.29887390136719",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "WDON",
+    "name": "Windsor",
+    "short_code": "WDON",
+    "country_code": "CAN",
+    "additional_info": "Windsor",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "298 Walker Rd.",
+    "city": "Windsor",
+    "province": "ON",
+    "postal_code": "N8Y 2M9",
+    "geo_data": {
+      "latitude": "42.3250091",
+      "longitude": "-83.00707290000003",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "WDO"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "OSHA",
+    "name": "Oshawa",
+    "short_code": "OSHA",
+    "country_code": "CAN",
+    "additional_info": "Oshawa",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "915 Bloor Street West",
+    "city": "Oshawa",
+    "province": "ON",
+    "postal_code": "L1J 7E2",
+    "geo_data": {
+      "latitude": "43.871013550670554",
+      "longitude": "-78.88484001159668",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "OSH"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "MALT",
+    "name": "Malton",
+    "short_code": "MALT",
+    "country_code": "CAN",
+    "additional_info": "Malton",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "3060 Derry Road East",
+    "city": "Malton",
+    "province": "ON",
+    "postal_code": "L4T 1A9",
+    "geo_data": {
+      "latitude": "43.706118",
+      "longitude": "-79.63920940000003",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "BRMP",
+    "name": "Brampton",
+    "short_code": "BRMP",
+    "country_code": "CAN",
+    "additional_info": "Brampton",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "31 Church Street West",
+    "city": "Brampton",
+    "province": "ON",
+    "postal_code": "L6X 1H2",
+    "geo_data": {
+      "latitude": "43.687251",
+      "longitude": "-79.7650327",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "GUIL",
+    "name": "Guildwood",
+    "short_code": "GUIL",
+    "country_code": "CAN",
+    "additional_info": "Guildwood",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "4105 Kingston Road",
+    "city": "Scarborough",
+    "province": "ON",
+    "postal_code": "M1E 2M3",
+    "geo_data": {
+      "latitude": "43.7548220804212",
+      "longitude": "-79.19855117797852",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "CSLM",
+    "name": "Casselman",
+    "short_code": "CSLM",
+    "country_code": "CAN",
+    "additional_info": "Casselman",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "3 Station St.",
+    "city": "Casselma n",
+    "province": "ON",
+    "postal_code": "K0A 1M0",
+    "geo_data": {
+      "latitude": "45.3122249",
+      "longitude": "-75.0873641",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "GEOR",
+    "name": "Georgetown",
+    "short_code": "GEOR",
+    "country_code": "CAN",
+    "additional_info": "Georgetown",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "Corner of King and Queen Street",
+    "city": "Georgetown",
+    "province": "ON",
+    "postal_code": "L7G 2E9",
+    "geo_data": {
+      "latitude": "43.655373",
+      "longitude": "-79.91905400000002",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Union station", "TO", "Gare Union", "Ontario"],
+    "_u_i_c_station_code": "TRTO",
+    "name": "Toronto",
+    "short_code": "TRTO",
+    "country_code": "CAN",
+    "additional_info": "Gare Union",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "65 Front Street West",
+    "city": "Toronto",
+    "province": "ON",
+    "postal_code": "M5J 1E6",
+    "geo_data": {
+      "latitude": "43.645195",
+      "longitude": "-79.38060000000002",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "TRT"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "GUEL",
+    "name": "Guelph",
+    "short_code": "GUEL",
+    "country_code": "CAN",
+    "additional_info": "Guelph",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "79 Carden Street",
+    "city": "Guelph",
+    "province": "ON",
+    "postal_code": "N1H 3A4",
+    "geo_data": {
+      "latitude": "43.5443326",
+      "longitude": "-80.24693539999998",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "OAKV",
+    "name": "Oakville",
+    "short_code": "OAKV",
+    "country_code": "CAN",
+    "additional_info": "Oakville",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "200 Cross Ave",
+    "city": "Oakville",
+    "province": "ON",
+    "postal_code": "L6J 2W6",
+    "geo_data": {
+      "latitude": "43.45509963106714",
+      "longitude": "-79.68263626098633",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "ALEX",
+    "name": "Alexandria",
+    "short_code": "ALEX",
+    "country_code": "CAN",
+    "additional_info": "Alexandria",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "45 McDougald Street E.",
+    "city": "Alexandria",
+    "province": "ON",
+    "postal_code": "K0C 1A0",
+    "geo_data": {
+      "latitude": "45.317979",
+      "longitude": "-74.63969750000001",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "KITC",
+    "name": "Kitchener",
+    "short_code": "KITC",
+    "country_code": "CAN",
+    "additional_info": "Kitchener",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "126 Weber St. West",
+    "city": "Kitchener",
+    "province": "ON",
+    "postal_code": "N2H 3Z9",
+    "geo_data": {
+      "latitude": "43.4554564",
+      "longitude": "-80.49303069999996",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "STRF",
+    "name": "Stratford",
+    "short_code": "STRF",
+    "country_code": "CAN",
+    "additional_info": "Stratford",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "101 Shakespeare St.",
+    "city": "Stratford",
+    "province": "ON",
+    "postal_code": "N5A 3W5",
+    "geo_data": {
+      "latitude": "43.3645488",
+      "longitude": "-80.97514899999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Burlington", "Ontario", "Hamilton"],
+    "_u_i_c_station_code": "ALDR",
+    "name": "Aldershot",
+    "short_code": "ALDR",
+    "country_code": "CAN",
+    "additional_info": "Aldershot",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "1199 Waterdown Rd.",
+    "city": "Burlington",
+    "province": "ON",
+    "postal_code": "L7T 4A8",
+    "geo_data": {
+      "latitude": "43.3133209",
+      "longitude": "-79.85562600000003",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["st-marys", "Ontario"],
+    "_u_i_c_station_code": "SMYS",
+    "name": "St. Marys",
+    "short_code": "SMYS",
+    "country_code": "CAN",
+    "additional_info": "St. Marys",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "5 James St. North",
+    "city": "St. Marys",
+    "province": "ON",
+    "postal_code": "N4X 1B1",
+    "geo_data": {
+      "latitude": "43.26011829999999",
+      "longitude": "-81.13698360000001",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "COTO",
+    "name": "Coteau",
+    "short_code": "COTO",
+    "country_code": "CAN",
+    "additional_info": "Coteau",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "50 Daoust St.",
+    "city": "Coteau",
+    "province": "QC",
+    "postal_code": "J7X 1J7",
+    "geo_data": {
+      "latitude": "45.2747482",
+      "longitude": "-74.2327674",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "DRMV",
+    "name": "Drummondville",
+    "short_code": "DRMV",
+    "country_code": "CAN",
+    "additional_info": "Drummondville",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "263 rue Lindsay",
+    "city": "Drummondville",
+    "province": "QC",
+    "postal_code": "J2C 1P2",
+    "geo_data": {
+      "latitude": "45.882121731080076",
+      "longitude": "-72.48839378356934",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "STRR",
+    "name": "Strathroy",
+    "short_code": "STRR",
+    "country_code": "CAN",
+    "additional_info": "Strathroy",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Strathroy",
+    "province": "ON",
+    "postal_code": "N7G 1P3,",
+    "geo_data": {
+      "latitude": "42.95469501672383",
+      "longitude": "-81.6229248046875",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": [
+      "Quebec",
+      "Québec",
+      "MONTRÉAL TRUDEAU AIRPORT",
+      "MONTREAL AIRPORT",
+      "MONTREAL AEROPORT",
+      "Aéroport Trudeau",
+      "Trudeau Airport",
+      "AEROPORT INT. TRUDEAU",
+      "TRUDEAU INT’L AIRPORT",
+      "Montréal International Pierre-Elliott-Trudeau Airport",
+      "Aéroport International Pierre-Elliott-Trudeau de Montréal",
+      "XYUL",
+      "YUL"
+    ],
+    "_u_i_c_station_code": "DORV",
+    "name": "Dorval",
+    "short_code": "DORV",
+    "country_code": "CAN",
+    "additional_info": "Dorval",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "755 Montréal-Toronto Blvd",
+    "city": "Dorval",
+    "province": "QC",
+    "postal_code": "H9S 1A1",
+    "geo_data": {
+      "latitude": "45.44875039999999",
+      "longitude": "-73.7413262",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "WYOM",
+    "name": "Wyoming",
+    "short_code": "WYOM",
+    "country_code": "CAN",
+    "additional_info": "Wyoming",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "00 Broadway Street",
+    "city": "Wyoming",
+    "province": "ON",
+    "postal_code": "N0N 1T0",
+    "geo_data": {
+      "latitude": "42.9481581",
+      "longitude": "-82.12085509999997",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "SARN",
+    "name": "Sarnia",
+    "short_code": "SARN",
+    "country_code": "CAN",
+    "additional_info": "Sarnia",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "125 Green St.",
+    "city": "Sarnia",
+    "province": "ON",
+    "postal_code": "N7T 2K4",
+    "geo_data": {
+      "latitude": "42.95787989999999",
+      "longitude": "-82.3893036",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "SAR"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "GRIM",
+    "name": "Grimsby",
+    "short_code": "GRIM",
+    "country_code": "CAN",
+    "additional_info": "Grimsby",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "99 Ontario",
+    "city": "Grimsby",
+    "province": "ON",
+    "postal_code": "L3M 3H6",
+    "geo_data": {
+      "latitude": "43.1959421",
+      "longitude": "-79.55804869999997",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["st-catherines", "Ontario"],
+    "_u_i_c_station_code": "SCAT",
+    "name": "St. Catharines",
+    "short_code": "SCAT",
+    "country_code": "CAN",
+    "additional_info": "St. Catharines",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "5 Great Western St.",
+    "city": "St. Catharines",
+    "province": "ON",
+    "postal_code": "L2S 2K3",
+    "geo_data": {
+      "latitude": "43.1477614",
+      "longitude": "-79.25626699999998",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "NIAG",
+    "name": "Niagara Falls",
+    "short_code": "NIAG",
+    "country_code": "CAN",
+    "additional_info": "Niagara Falls",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "4267 Bridge Street",
+    "city": "Niagara Falls",
+    "province": "ON",
+    "postal_code": "L2E 2R6",
+    "geo_data": {
+      "latitude": "43.1086964",
+      "longitude": "-79.0627776",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "NIA"
+      }
+    ]
+  },
+  {
+    "synonyms": ["St-Lambert", "St. Lambert", "Quebec", "Québec"],
+    "_u_i_c_station_code": "SLAM",
+    "name": "Saint-Lambert",
+    "short_code": "SLAM",
+    "country_code": "CAN",
+    "additional_info": "Saint-Lambert",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "329 Ave. Saint-Denis",
+    "city": "Saint-Lambert",
+    "province": "QC",
+    "postal_code": "J4P 2G5",
+    "geo_data": {
+      "latitude": "45.4989308",
+      "longitude": "-73.50736710000001",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["St-Hyacinthe", "St. Hyacinthe", "Quebec", "Québec"],
+    "_u_i_c_station_code": "SHYA",
+    "name": "Saint-Hyacinthe",
+    "short_code": "SHYA",
+    "country_code": "CAN",
+    "additional_info": "Saint-Hyacinthe",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "1450, Rue Sicotte",
+    "city": "Saint-Hyacinthe",
+    "province": "QC",
+    "postal_code": "J2S 2J6",
+    "geo_data": {
+      "latitude": "45.6272294",
+      "longitude": "-72.9493721",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ste-Foy", "St. Foy", "Québec", "Quebec"],
+    "_u_i_c_station_code": "SFOY",
+    "name": "Sainte-Foy",
+    "short_code": "SFOY",
+    "country_code": "CAN",
+    "additional_info": "Sainte-Foy",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "3255, Ch. de la Gare",
+    "city": "Sainte-Foy",
+    "province": "QC",
+    "postal_code": "G1W 3A8",
+    "geo_data": {
+      "latitude": "46.7543271",
+      "longitude": "-71.2976554",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "SFO"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "CHNY",
+    "name": "Charny",
+    "short_code": "CHNY",
+    "country_code": "CAN",
+    "additional_info": "Charny",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "2326 rue de la gare",
+    "city": "Charny",
+    "province": "QC",
+    "postal_code": "G6X 1Z3",
+    "geo_data": {
+      "latitude": "46.7135873",
+      "longitude": "-71.27038040000002",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Quebec City", "Gare du palais", "Québec"],
+    "_u_i_c_station_code": "QBEC",
+    "name": "Québec",
+    "short_code": "QBEC",
+    "country_code": "CAN",
+    "additional_info": "Gare du Palais",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "450 rue de la Gare du Palais",
+    "city": "Quebec",
+    "province": "QC",
+    "postal_code": "G1K 3X2",
+    "geo_data": {
+      "latitude": "46.81747750907954",
+      "longitude": "-71.21389389038086",
+      "zoom": 15
+    },
+    "sequence_number": 1,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "QBE"
+      }
+    ]
+  },
+  {
+    "synonyms": ["New York", "NY"],
+    "_u_i_c_station_code": "NFNY",
+    "name": "Niagara Falls",
+    "short_code": "NFNY",
+    "country_code": "USA",
+    "additional_info": "Niagara Falls",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "825 Depot Avenue West",
+    "city": "Niagara Falls, NY",
+    "province": "NY",
+    "postal_code": "14305",
+    "geo_data": {
+      "latitude": "43.10988770000001",
+      "longitude": "-79.05492759999998",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": [],
+    "_u_i_c_station_code": "AMKM",
+    "name": "Frontière CA/US",
+    "short_code": "AMKM",
+    "country_code": "CAN",
+    "additional_info": "Frontière CA/US",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "CA/US Border",
+    "city": "Niagara Falls",
+    "geo_data": {
+      "latitude": "43.1092244",
+      "longitude": "-79.0598933",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New York", "NY"],
+    "_u_i_c_station_code": "BUFX",
+    "name": "Buffalo (Exchange)",
+    "short_code": "BUFX",
+    "country_code": "USA",
+    "additional_info": "Buffalo (Exchange)",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "-",
+    "city": "Buffalo",
+    "province": "NY",
+    "postal_code": "14203",
+    "geo_data": {
+      "latitude": "42.8790546",
+      "longitude": "-78.87542439999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New York", "NY"],
+    "_u_i_c_station_code": "BUFF",
+    "name": "Buffalo (Depew)",
+    "short_code": "BUFF",
+    "country_code": "USA",
+    "additional_info": "Buffalo (Depew)",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "55 Dick Rd",
+    "city": "Depew",
+    "province": "NY",
+    "postal_code": "14043",
+    "geo_data": {
+      "latitude": "42.9071126",
+      "longitude": "-78.72657229999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New York", "NY"],
+    "_u_i_c_station_code": "ROCH",
+    "name": "Rochester",
+    "short_code": "ROCH",
+    "country_code": "USA",
+    "additional_info": "Rochester",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "320 Centra Ave.",
+    "city": "Rochester",
+    "province": "NY",
+    "postal_code": "14605",
+    "geo_data": {
+      "latitude": "43.1635204",
+      "longitude": "-77.60824009999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New York", "NY"],
+    "_u_i_c_station_code": "SYRA",
+    "name": "Syracuse",
+    "short_code": "SYRA",
+    "country_code": "USA",
+    "additional_info": "Syracuse",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "131 Alliance Bank Parkway Regional Transportation Center, Suite 2",
+    "city": "Syracuse",
+    "province": "NY",
+    "postal_code": "13208",
+    "geo_data": {
+      "latitude": "43.0770698607784",
+      "longitude": "-76.16992950439453",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New York", "NY"],
+    "_u_i_c_station_code": "ROME",
+    "name": "Rome",
+    "short_code": "ROME",
+    "country_code": "USA",
+    "additional_info": "Rome",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "6599 Martin St.",
+    "city": "Rome",
+    "province": "NY",
+    "postal_code": "13440",
+    "geo_data": {
+      "latitude": "43.1995241",
+      "longitude": "-75.4499945",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New York", "NY"],
+    "_u_i_c_station_code": "UTIC",
+    "name": "Utica",
+    "short_code": "UTIC",
+    "country_code": "USA",
+    "additional_info": "Utica",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "321 Main St.",
+    "city": "Utica",
+    "province": "NY",
+    "postal_code": "13501",
+    "geo_data": {
+      "latitude": "43.1041839",
+      "longitude": "-75.2232219",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New York", "NY"],
+    "_u_i_c_station_code": "AMST",
+    "name": "Amsterdam",
+    "short_code": "AMST",
+    "country_code": "USA",
+    "additional_info": "Amsterdam",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "Railroad St & Main Stree West",
+    "city": "Amsterdam",
+    "province": "NY",
+    "postal_code": "12010",
+    "geo_data": {
+      "latitude": "42.95368200000001",
+      "longitude": "-74.21953150000002",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New York", "NY"],
+    "_u_i_c_station_code": "SCHE",
+    "name": "Schenectady",
+    "short_code": "SCHE",
+    "country_code": "USA",
+    "additional_info": "Schenectady",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "332 Erie Blvd",
+    "city": "Schenectady",
+    "province": "NY",
+    "postal_code": "12305",
+    "geo_data": {
+      "latitude": "42.814559",
+      "longitude": "-73.94274489999998",
+      "zoom": 16
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New york", "NY"],
+    "_u_i_c_station_code": "ALBY",
+    "name": "Albany-Rensselaer",
+    "short_code": "ALBY",
+    "country_code": "USA",
+    "additional_info": "Albany-Rensselaer",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "525 East St.",
+    "city": "Albany",
+    "province": "NY",
+    "postal_code": "12144",
+    "geo_data": {
+      "latitude": "42.6413525",
+      "longitude": "-73.7411492",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New York", "NY"],
+    "_u_i_c_station_code": "HUDS",
+    "name": "Hudson",
+    "short_code": "HUDS",
+    "country_code": "USA",
+    "additional_info": "Hudson",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "69 South Front St.",
+    "city": "Hudson",
+    "province": "NY",
+    "postal_code": "12534",
+    "geo_data": {
+      "latitude": "42.25408514529943",
+      "longitude": "-73.79771947860718",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New York", "NY"],
+    "_u_i_c_station_code": "RHIN",
+    "name": "Rhinecliff",
+    "short_code": "RHIN",
+    "country_code": "USA",
+    "additional_info": "Rhinecliff",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "Hutton & Charles St.",
+    "city": "Rhinecliff",
+    "province": "NY",
+    "postal_code": "12574",
+    "geo_data": {
+      "latitude": "41.9212589",
+      "longitude": "-73.95132060000003",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New York", "NY"],
+    "_u_i_c_station_code": "POUG",
+    "name": "Poughkeepsie",
+    "short_code": "POUG",
+    "country_code": "USA",
+    "additional_info": "Poughkeepsie",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "41Main St.",
+    "city": "Poughkeepsie",
+    "province": "NY",
+    "postal_code": "12601",
+    "geo_data": {
+      "latitude": "41.7071089",
+      "longitude": "-73.93766779999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New York", "NY"],
+    "_u_i_c_station_code": "CROT",
+    "name": "Croton-Harmon",
+    "short_code": "CROT",
+    "country_code": "USA",
+    "additional_info": "Croton-Harmon",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "1 Croton Point Ave",
+    "city": "Croton-on-Hudson",
+    "province": "NY",
+    "postal_code": "10520",
+    "geo_data": {
+      "latitude": "41.1898375",
+      "longitude": "-73.88262929999996",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New York", "NY"],
+    "_u_i_c_station_code": "YONK",
+    "name": "Yonkers",
+    "short_code": "YONK",
+    "country_code": "USA",
+    "additional_info": "Yonkers",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "5 Buena Vista Avenue",
+    "city": "Yonkers",
+    "province": "NY",
+    "postal_code": "10701",
+    "geo_data": {
+      "latitude": "40.9355917",
+      "longitude": "-73.90233920000003",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["NY"],
+    "_u_i_c_station_code": "NEWY",
+    "name": "New York",
+    "short_code": "NEWY",
+    "country_code": "USA",
+    "additional_info": "New York",
+    "connected_stations": [],
+    "timezone": "US/Eastern",
+    "address": "8th Ave & 31st St.",
+    "city": "New York",
+    "province": "NY",
+    "postal_code": "10001",
+    "geo_data": {
+      "latitude": "40.750568",
+      "longitude": "-73.99351899999999",
+      "zoom": 15
+    },
+    "sequence_number": 1,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "CAPR",
+    "name": "Capreol",
+    "short_code": "CAPR",
+    "country_code": "CAN",
+    "additional_info": "Capreol",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "8 Front Street",
+    "city": "Capreol",
+    "province": "ON",
+    "postal_code": "P0M 1H0",
+    "geo_data": {
+      "latitude": "46.7109015",
+      "longitude": "-80.92916109999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "HNPN",
+    "name": "Hornepayne",
+    "short_code": "HNPN",
+    "country_code": "CAN",
+    "additional_info": "Hornepayne",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Hornepayne",
+    "province": "ON",
+    "postal_code": "P0M 1Z0",
+    "geo_data": {
+      "latitude": "49.21719299999999",
+      "longitude": "-84.77356900000001",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "COLL",
+    "name": "Collins",
+    "short_code": "COLL",
+    "country_code": "CAN",
+    "additional_info": "Collins",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Collins",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "50.295803",
+      "longitude": "-89.44890900000001",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "ALWB",
+    "name": "Allanwater Bridge",
+    "short_code": "ALWB",
+    "country_code": "CAN",
+    "additional_info": "Allanwater Bridge",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Allanwater Bridge",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "50.2406654",
+      "longitude": "-90.16688629999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "SLKT",
+    "name": "Sioux Lookout",
+    "short_code": "SLKT",
+    "country_code": "CAN",
+    "additional_info": "Sioux Lookout",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "53 Front St.",
+    "city": "Sioux Lookout",
+    "province": "ON",
+    "postal_code": "P8T 1A3",
+    "geo_data": {
+      "latitude": "50.0975493",
+      "longitude": "-91.91639839999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "SLK"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "WNPG",
+    "name": "Winnipeg",
+    "short_code": "WNPG",
+    "country_code": "CAN",
+    "additional_info": "Gare Union",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "123 Main Street, #146",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postal_code": "R3C 1A3",
+    "geo_data": {
+      "latitude": "49.88921089999999",
+      "longitude": "-97.13449409999998",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "WNP"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Saskatchewan"],
+    "_u_i_c_station_code": "MELV",
+    "name": "Melville",
+    "short_code": "MELV",
+    "country_code": "CAN",
+    "additional_info": "Melville",
+    "connected_stations": [],
+    "timezone": "Etc/GMT+6",
+    "address": "Main St. & 1st Ave",
+    "city": "Melville",
+    "province": "SK",
+    "postal_code": "S0A 2P0",
+    "geo_data": {
+      "latitude": "50.9265657",
+      "longitude": "-102.80713750000001",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Saskatchewan"],
+    "_u_i_c_station_code": "SASK",
+    "name": "Saskatoon",
+    "short_code": "SASK",
+    "country_code": "CAN",
+    "additional_info": "Saskatoon",
+    "connected_stations": [],
+    "timezone": "Etc/GMT+6",
+    "address": "38-1701 Chappell Drive",
+    "city": "Saskatoon",
+    "province": "SK",
+    "postal_code": "S7M 5P5",
+    "geo_data": {
+      "latitude": "52.104955",
+      "longitude": "-106.73827399999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "SAS"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Saskatchewan"],
+    "_u_i_c_station_code": "UNIT",
+    "name": "Unity",
+    "short_code": "UNIT",
+    "country_code": "CAN",
+    "additional_info": "Unity",
+    "connected_stations": [],
+    "timezone": "Etc/GMT+6",
+    "address": "-",
+    "city": "Unity",
+    "province": "SK",
+    "postal_code": "S0K 4L0",
+    "geo_data": {
+      "latitude": "52.441105",
+      "longitude": "-109.16017499999998",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Alberta"],
+    "_u_i_c_station_code": "WAIN",
+    "name": "Wainwright",
+    "short_code": "WAIN",
+    "country_code": "CAN",
+    "additional_info": "Wainwright",
+    "connected_stations": [],
+    "timezone": "Canada/Mountain",
+    "address": "10th Street & 1st Avenue",
+    "city": "Wainwright",
+    "province": "AB",
+    "geo_data": {
+      "latitude": "52.83286200000001",
+      "longitude": "-110.86457300000001",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Alberta"],
+    "_u_i_c_station_code": "EDMO",
+    "name": "Edmonton",
+    "short_code": "EDMO",
+    "country_code": "CAN",
+    "additional_info": "Edmonton",
+    "connected_stations": [],
+    "timezone": "Canada/Mountain",
+    "address": "12360 121st Street NW",
+    "city": "Edmonton",
+    "province": "AB",
+    "postal_code": "T5L 5C3",
+    "geo_data": {
+      "latitude": "53.5788686",
+      "longitude": "-113.5307153",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "EDM"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Alberta"],
+    "_u_i_c_station_code": "JASP",
+    "name": "Jasper",
+    "short_code": "JASP",
+    "country_code": "CAN",
+    "additional_info": "Jasper",
+    "connected_stations": [],
+    "timezone": "Canada/Mountain",
+    "address": "607 Connaught Dr",
+    "city": "Jasper",
+    "province": "AB",
+    "postal_code": "T0E 1E0",
+    "geo_data": {
+      "latitude": "52.8761326",
+      "longitude": "-118.07960249999996",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "JAS"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "VLMT",
+    "name": "Valemount",
+    "short_code": "VLMT",
+    "country_code": "CAN",
+    "additional_info": "Valemount",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "1200 Main Street",
+    "city": "Valemount",
+    "province": "BC",
+    "postal_code": "V0E 2Z0",
+    "geo_data": {
+      "latitude": "52.8348572",
+      "longitude": "-119.2616921",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "KAMN",
+    "name": "Kamloops North",
+    "short_code": "KAMN",
+    "country_code": "CAN",
+    "additional_info": "Kamloops North",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "Yellowhead Highway 5",
+    "city": "Kamloops North",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "50.7182112",
+      "longitude": "-120.34831759999997",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "KAM"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "VCVR",
+    "name": "Vancouver",
+    "short_code": "VCVR",
+    "country_code": "CAN",
+    "additional_info": "Gare Pacific Central",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "1150 Station St.",
+    "city": "Vancouver",
+    "province": "BC",
+    "postal_code": "V6A 4C7",
+    "geo_data": {
+      "latitude": "49.2737759",
+      "longitude": "-123.09783600000003",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "VCV"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Nova Scotia", "Nouvelle-Écosse"],
+    "_u_i_c_station_code": "HLFX",
+    "name": "Halifax",
+    "short_code": "HLFX",
+    "country_code": "CAN",
+    "additional_info": "Halifax",
+    "connected_stations": [],
+    "timezone": "Canada/Atlantic",
+    "address": "1161 Hollis St",
+    "city": "Halifax",
+    "province": "NS",
+    "postal_code": "B3H 2P6",
+    "geo_data": {
+      "latitude": "44.63922343581678",
+      "longitude": "-63.56770992279053",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "HLF"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Nova Scotia", "Nouvelle-Écosse"],
+    "_u_i_c_station_code": "TRUR",
+    "name": "Truro",
+    "short_code": "TRUR",
+    "country_code": "CAN",
+    "additional_info": "Truro",
+    "connected_stations": [],
+    "timezone": "Canada/Atlantic",
+    "address": "104 the Esplanade St.",
+    "city": "Truro",
+    "province": "NS",
+    "postal_code": "B2N 2K3",
+    "geo_data": {
+      "latitude": "45.36245856472071",
+      "longitude": "-63.275628089904785",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Nova Scotia", "Nouvelle-Écosse"],
+    "_u_i_c_station_code": "SPRJ",
+    "name": "Springhill Jct.",
+    "short_code": "SPRJ",
+    "country_code": "CAN",
+    "additional_info": "Springhill Jct.",
+    "connected_stations": [],
+    "timezone": "Canada/Atlantic",
+    "address": "-",
+    "city": "Springhill Jct.",
+    "province": "NS",
+    "postal_code": "B0M 1X0",
+    "geo_data": {
+      "latitude": "45.69188204423378",
+      "longitude": "-64.11123275756836",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Nova Scotia", "Nouvelle-Écosse"],
+    "_u_i_c_station_code": "AMHS",
+    "name": "Amherst",
+    "short_code": "AMHS",
+    "country_code": "CAN",
+    "additional_info": "Amherst",
+    "connected_stations": [],
+    "timezone": "Canada/Atlantic",
+    "address": "27 Station Street",
+    "city": "Amherst",
+    "province": "NS",
+    "postal_code": "B4H 3E4",
+    "geo_data": {
+      "latitude": "45.83047382900793",
+      "longitude": "-64.21259880065918",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Nouveau-Brunswick", "New Brunswick"],
+    "_u_i_c_station_code": "SACK",
+    "name": "Sackville",
+    "short_code": "SACK",
+    "country_code": "CAN",
+    "additional_info": "Sackville",
+    "connected_stations": [],
+    "timezone": "Canada/Atlantic",
+    "address": "66 Lorne St.",
+    "city": "Sackville",
+    "province": "NB",
+    "postal_code": "E4L 4A1",
+    "geo_data": {
+      "latitude": "45.89042634704503",
+      "longitude": "-64.36756610870361",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Nouveau-Brunswick", "New Brunswick"],
+    "_u_i_c_station_code": "MCTN",
+    "name": "Moncton",
+    "short_code": "MCTN",
+    "country_code": "CAN",
+    "additional_info": "Moncton",
+    "connected_stations": [],
+    "timezone": "Canada/Atlantic",
+    "address": "77 Canada Street",
+    "city": "Moncton",
+    "province": "NB",
+    "postal_code": "E1C 0V3",
+    "geo_data": {
+      "latitude": "46.083441484331814",
+      "longitude": "-64.78616237640381",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "MCT"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Nouveau-Brunswick", "New Brunswick"],
+    "_u_i_c_station_code": "RGRV",
+    "name": "Rogersville",
+    "short_code": "RGRV",
+    "country_code": "CAN",
+    "additional_info": "Rogersville",
+    "connected_stations": [],
+    "timezone": "Canada/Atlantic",
+    "address": "11082 Principale Street",
+    "city": "Rogersville",
+    "province": "NB",
+    "postal_code": "E4Y 2S6",
+    "geo_data": {
+      "latitude": "46.72950714675161",
+      "longitude": "-65.42555809020996",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Nouveau-Brunswick", "New Brunswick"],
+    "_u_i_c_station_code": "MIRA",
+    "name": "Miramichi",
+    "short_code": "MIRA",
+    "country_code": "CAN",
+    "additional_info": "Miramichi",
+    "connected_stations": [],
+    "timezone": "Canada/Atlantic",
+    "address": "251 Station St.",
+    "city": "Miramichi",
+    "province": "NB",
+    "postal_code": "E1V 1G6",
+    "geo_data": {
+      "latitude": "47.00475327058779",
+      "longitude": "-65.5733585357666",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Nouveau-Brunswick", "New Brunswick"],
+    "_u_i_c_station_code": "PROC",
+    "name": "Petit Rocher",
+    "short_code": "PROC",
+    "country_code": "CAN",
+    "additional_info": "Petit Rocher",
+    "connected_stations": [],
+    "timezone": "Canada/Atlantic",
+    "address": "-",
+    "city": "Petit Rocher",
+    "province": "NB",
+    "geo_data": {
+      "latitude": "47.778732250142234",
+      "longitude": "-65.72991371154785",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New Brunswick", "Nouveau-Brunswick"],
+    "_u_i_c_station_code": "JACR",
+    "name": "Jacquet River",
+    "short_code": "JACR",
+    "country_code": "CAN",
+    "additional_info": "Jacquet River",
+    "connected_stations": [],
+    "timezone": "Canada/Atlantic",
+    "address": "51, Dr. Ellis Lane",
+    "city": "Jacquet River",
+    "province": "NB",
+    "postal_code": "E8G 2K6",
+    "geo_data": {
+      "latitude": "47.920253593095545",
+      "longitude": "-66.00019454956055",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New Brunswick", "Nouveau-Brunswick"],
+    "_u_i_c_station_code": "CHLO",
+    "name": "Charlo",
+    "short_code": "CHLO",
+    "country_code": "CAN",
+    "additional_info": "Charlo",
+    "connected_stations": [],
+    "timezone": "Canada/Atlantic",
+    "address": "685, Chaleur St.",
+    "city": "Charlo",
+    "province": "NB",
+    "geo_data": {
+      "latitude": "47.99420100535722",
+      "longitude": "-66.30459308624268",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New Brunswick", "Nouveau-Brunswick"],
+    "_u_i_c_station_code": "CBTN",
+    "name": "Campbellton",
+    "short_code": "CBTN",
+    "country_code": "CAN",
+    "additional_info": "Campbellton",
+    "connected_stations": [],
+    "timezone": "Canada/Atlantic",
+    "address": "99C Roseberry St.",
+    "city": "Campbellton",
+    "province": "NB",
+    "postal_code": "E3N 2G6",
+    "geo_data": {
+      "latitude": "48.004883441048875",
+      "longitude": "-66.6783857345581",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec", "Matapédia", "Matapedia"],
+    "_u_i_c_station_code": "MTPD",
+    "name": "Matapédia",
+    "short_code": "MTPD",
+    "country_code": "CAN",
+    "additional_info": "Matapédia",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "10 rue MacDonell",
+    "city": "Matapédia",
+    "province": "QC",
+    "postal_code": "G0J 1V0",
+    "geo_data": {
+      "latitude": "47.97486936509618",
+      "longitude": "-66.9391393661499",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "MTP"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "CAUS",
+    "name": "Causapscal",
+    "short_code": "CAUS",
+    "country_code": "CAN",
+    "additional_info": "Causapscal",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Causapscal",
+    "province": "QC",
+    "postal_code": "G0J 1J0",
+    "geo_data": {
+      "latitude": "48.349632628345745",
+      "longitude": "-67.22723007202148",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "AMQU",
+    "name": "Amqui",
+    "short_code": "AMQU",
+    "country_code": "CAN",
+    "additional_info": "Amqui",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "209 West Boul. St-Benoit",
+    "city": "Amqui",
+    "province": "QC",
+    "postal_code": "G5J 2E9",
+    "geo_data": {
+      "latitude": "48.466263125051086",
+      "longitude": "-67.43618488311768",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "SAYA",
+    "name": "Sayabec",
+    "short_code": "SAYA",
+    "country_code": "CAN",
+    "additional_info": "Sayabec",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Sayabec",
+    "province": "QC",
+    "postal_code": "G0J 3K0",
+    "geo_data": {
+      "latitude": "48.558674058835855",
+      "longitude": "-67.68952785823308",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "MJLI",
+    "name": "Mont-Joli",
+    "short_code": "MJLI",
+    "country_code": "CAN",
+    "additional_info": "Mont-Joli",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "48 rue de la Gare",
+    "city": "Mont-Joli",
+    "province": "QC",
+    "postal_code": "G5H 1N7",
+    "geo_data": {
+      "latitude": "48.589240690328786",
+      "longitude": "-68.1890058517456",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "RMSK",
+    "name": "Rimouski",
+    "short_code": "RMSK",
+    "country_code": "CAN",
+    "additional_info": "Rimouski",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "57 rue de l'Évêché Est",
+    "city": "Rimouski",
+    "province": "QC",
+    "postal_code": "G5L 1X7",
+    "geo_data": {
+      "latitude": "48.45012629857297",
+      "longitude": "-68.52121353149414",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Québec", "Quebec"],
+    "_u_i_c_station_code": "TPIS",
+    "name": "Trois Pistoles",
+    "short_code": "TPIS",
+    "country_code": "CAN",
+    "additional_info": "Trois Pistoles",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "265 De la Gare",
+    "city": "Trois Pistoles",
+    "province": "QC",
+    "postal_code": "G0L 4K0",
+    "geo_data": {
+      "latitude": "48.12711417314652",
+      "longitude": "-69.1733980178833",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec", "Rivière-du-Loup"],
+    "_u_i_c_station_code": "RDLX",
+    "name": "Rivière-du-Loup",
+    "short_code": "RDLX",
+    "country_code": "CAN",
+    "additional_info": "Rivière-du-Loup",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Rivière-du-Loup",
+    "province": "QC",
+    "postal_code": "G5R 3C5",
+    "geo_data": {
+      "latitude": "47.825315057590835",
+      "longitude": "-69.52770709991455",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "LPOC",
+    "name": "La Pocatière",
+    "short_code": "LPOC",
+    "country_code": "CAN",
+    "additional_info": "La Pocatière",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "95 Avenue de la Gare",
+    "city": "La Pocatière",
+    "province": "QC",
+    "postal_code": "G0R 1Z0",
+    "geo_data": {
+      "latitude": "47.361182076994965",
+      "longitude": "-70.02531051635742",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "LPO"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "MMGY",
+    "name": "Montmagny",
+    "short_code": "MMGY",
+    "country_code": "CAN",
+    "additional_info": "Montmagny",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Montmagny",
+    "province": "QC",
+    "postal_code": "G5V 3M3",
+    "geo_data": {
+      "latitude": "46.97328349665828",
+      "longitude": "-70.55964946746826",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Sauve", "Quebec", "Québec", "Sauvé"],
+    "_u_i_c_station_code": "SAUV",
+    "name": "Sauvé",
+    "short_code": "SAUV",
+    "country_code": "CAN",
+    "additional_info": "Sauvé",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "9600 rue Berri",
+    "city": "Montréal",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "45.5496702683814",
+      "longitude": "-73.6543607711792",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "JOLI",
+    "name": "Joliette",
+    "short_code": "JOLI",
+    "country_code": "CAN",
+    "additional_info": "Joliette",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "380 Champlain",
+    "city": "Joliette",
+    "province": "QC",
+    "postal_code": "J6E 2S1",
+    "geo_data": {
+      "latitude": "46.02938880791639",
+      "longitude": "-73.44403266906738",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "SJUS",
+    "name": "Saint-Justin",
+    "short_code": "SJUS",
+    "country_code": "CAN",
+    "additional_info": "Saint-Justin",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Saint-Justin",
+    "province": "QC",
+    "postal_code": "J0K 2V0",
+    "geo_data": {
+      "latitude": "46.27317332099715",
+      "longitude": "-73.10972213745117",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "SPAU",
+    "name": "Saint-Paulin",
+    "short_code": "SPAU",
+    "country_code": "CAN",
+    "additional_info": "Saint-Paulin",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "2390 Rang Renversy",
+    "city": "Saint-Paulin",
+    "province": "QC",
+    "postal_code": "J0K 3G0",
+    "geo_data": {
+      "latitude": "46.40111271261873",
+      "longitude": "-73.01599502563477",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "CHRT",
+    "name": "Charette",
+    "short_code": "CHRT",
+    "country_code": "CAN",
+    "additional_info": "Charette",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "250 Rue de la Station",
+    "city": "Charette",
+    "province": "QC",
+    "postal_code": "G0X 1E0",
+    "geo_data": {
+      "latitude": "46.44208591579237",
+      "longitude": "-72.92171001434326",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "SHWN",
+    "name": "Shawinigan",
+    "short_code": "SHWN",
+    "country_code": "CAN",
+    "additional_info": "Shawinigan",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "1560 Chemin du CN",
+    "city": "Shawinigan",
+    "province": "QC",
+    "postal_code": "G9N 2B4",
+    "geo_data": {
+      "latitude": "46.549711748727596",
+      "longitude": "-72.74524211883545",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "SHW"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Quebec", "Québec", "Grand-Mere", "Grand-Mère"],
+    "_u_i_c_station_code": "GMRE",
+    "name": "Grand-Mère",
+    "short_code": "GMRE",
+    "country_code": "CAN",
+    "additional_info": "Grand-Mère",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Grand-Mère",
+    "province": "QC",
+    "postal_code": "G9T 5W1",
+    "geo_data": {
+      "latitude": "46.60587722703103",
+      "longitude": "-72.68670558929443",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "GARN",
+    "name": "Garneau",
+    "short_code": "GARN",
+    "country_code": "CAN",
+    "additional_info": "Garneau",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "Garneau",
+    "city": "Garneau",
+    "province": "QC",
+    "postal_code": "G0X 1J0",
+    "geo_data": {
+      "latitude": "46.640008243515915",
+      "longitude": "-72.63833999633789",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "STIT",
+    "name": "Saint-Tite",
+    "short_code": "STIT",
+    "country_code": "CAN",
+    "additional_info": "Saint-Tite",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "310 Machildon , ,",
+    "city": "Saint-Tite",
+    "province": "QC",
+    "postal_code": "G0X 3H0",
+    "geo_data": {
+      "latitude": "46.72312348789452",
+      "longitude": "-72.56418228149414",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "HERV",
+    "name": "Hervey",
+    "short_code": "HERV",
+    "country_code": "CAN",
+    "additional_info": "Hervey",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "445 Chemin St-Charles",
+    "city": "Hervey",
+    "province": "QC",
+    "postal_code": "G0X 1M0",
+    "geo_data": {
+      "latitude": "46.85363207604627",
+      "longitude": "-72.46785879135132",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "HER"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "ROUS",
+    "name": "Rousseau",
+    "short_code": "ROUS",
+    "country_code": "CAN",
+    "additional_info": "Rousseau",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Rousseau",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "46.93382498299527",
+      "longitude": "-72.2865629196167",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec", "Riviere-a-Pierre", "Rivière-à-Pierre"],
+    "_u_i_c_station_code": "RAPX",
+    "name": "Rivière-à-Pierre",
+    "short_code": "RAPX",
+    "country_code": "CAN",
+    "additional_info": "Rivière-à-Pierre",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "470 rue Principale , ,",
+    "city": "Rivière-à-Pierre",
+    "province": "QC",
+    "postal_code": "G0A 3A0",
+    "geo_data": {
+      "latitude": "46.989093885164735",
+      "longitude": "-72.17966079711914",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "MIQK",
+    "name": "Miquick",
+    "short_code": "MIQK",
+    "country_code": "CAN",
+    "additional_info": "Miquick",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Miquick",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.21991788358141",
+      "longitude": "-72.25132942199707",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Québec", "Quebec"],
+    "_u_i_c_station_code": "JACC",
+    "name": "Club Jacques-Cartier",
+    "short_code": "JACC",
+    "country_code": "CAN",
+    "additional_info": "Club Jacques-Cartier",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Linton",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.31857768821123",
+      "longitude": "-72.21261978149414",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "FALR",
+    "name": "Falrie",
+    "short_code": "FALR",
+    "country_code": "CAN",
+    "additional_info": "Falrie",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Linton",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.33754306785725",
+      "longitude": "-72.20232009887695",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "PBDT",
+    "name": "Pont Beaudet",
+    "short_code": "PBDT",
+    "country_code": "CAN",
+    "additional_info": "Pont Beaudet",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Linton",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.35560038769889",
+      "longitude": "-72.19995975494385",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "SHPN",
+    "name": "Saint-Hilaire de Portneuf",
+    "short_code": "SHPN",
+    "country_code": "CAN",
+    "additional_info": "Saint-Hilaire de Portneuf",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.366530641824916",
+      "longitude": "-72.21116065979004",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "BIMA",
+    "name": "Bima",
+    "short_code": "BIMA",
+    "country_code": "CAN",
+    "additional_info": "Bima",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.37987062198322",
+      "longitude": "-72.22085952758789",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "LMAL",
+    "name": "Lac Malouin",
+    "short_code": "LMAL",
+    "country_code": "CAN",
+    "additional_info": "Lac Malouin",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Lac-Édouard",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.394398350790496",
+      "longitude": "-72.22437858581543",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "IRQC",
+    "name": "Club Iroquois",
+    "short_code": "IRQC",
+    "country_code": "CAN",
+    "additional_info": "Club Iroquois",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Lac-Édouard",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.419579941651705",
+      "longitude": "-72.23210334777832",
+      "zoom": 16
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "STAD",
+    "name": "Stadacona",
+    "short_code": "STAD",
+    "country_code": "CAN",
+    "additional_info": "Stadacona",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Lac-Édouard",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.4414116648214",
+      "longitude": "-72.24918365478516",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "SANF",
+    "name": "Sanford",
+    "short_code": "SANF",
+    "country_code": "CAN",
+    "additional_info": "Sanford",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Lac-Édouard",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.48240874665262",
+      "longitude": "-72.21922874450684",
+      "zoom": 14
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "PRLL",
+    "name": "Lac-aux-Perles",
+    "short_code": "PRLL",
+    "country_code": "CAN",
+    "additional_info": "Lac-aux-Perles",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Lac-aux-Perles",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.53232800085228",
+      "longitude": "-72.23502159118652",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "HRDL",
+    "name": "Hirondelle",
+    "short_code": "HRDL",
+    "country_code": "CAN",
+    "additional_info": "Hirondelle",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Lac-Édouard",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.536674120125305",
+      "longitude": "-72.24334716796875",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "NCLC",
+    "name": "Club Nicol",
+    "short_code": "NCLC",
+    "country_code": "CAN",
+    "additional_info": "Club Nicol",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Lac-Édouard",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.57522290701206",
+      "longitude": "-72.24107265472412",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "TRTC",
+    "name": "Club Triton",
+    "short_code": "TRTC",
+    "country_code": "CAN",
+    "additional_info": "Club Triton",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Club-Triton",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.61348296266395",
+      "longitude": "-72.24420547485352",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": [
+      "Lac-Edouard",
+      "Lac-Edward",
+      "Quebec",
+      "Québec",
+      "Lac-Édouard"
+    ],
+    "_u_i_c_station_code": "LEDW",
+    "name": "Lac-Édouard",
+    "short_code": "LEDW",
+    "country_code": "CAN",
+    "additional_info": "Lac-Édouard",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Lac-Édouard",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.66648561065035",
+      "longitude": "-72.2695255279541",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "CHER",
+    "name": "Cherokee",
+    "short_code": "CHER",
+    "country_code": "CAN",
+    "additional_info": "Cherokee",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Lac-Édouard",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.7241403820426",
+      "longitude": "-72.2299575805664",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "CARI",
+    "name": "Caribou",
+    "short_code": "CARI",
+    "country_code": "CAN",
+    "additional_info": "Caribou",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Lac-Édouard",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.733089061400335",
+      "longitude": "-72.21588134765625",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec", "Club Gregoire", "Club Grégoire"],
+    "_u_i_c_station_code": "GRGC",
+    "name": "Club Grégoire",
+    "short_code": "GRGC",
+    "country_code": "CAN",
+    "additional_info": "Club Grégoire",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.769272224136465",
+      "longitude": "-72.18283653259277",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "SMMC",
+    "name": "Club Sommet",
+    "short_code": "SMMC",
+    "country_code": "CAN",
+    "additional_info": "Club Sommet",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.78340394515312",
+      "longitude": "-72.18674182891846",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "SMQU",
+    "name": "Summit",
+    "short_code": "SMQU",
+    "country_code": "CAN",
+    "additional_info": "Summit",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Summit",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.78842122404267",
+      "longitude": "-72.18523979187012",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "BRQU",
+    "name": "Brooks",
+    "short_code": "BRQU",
+    "country_code": "CAN",
+    "additional_info": "Brooks",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.854125",
+      "longitude": "-72.155817",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "KISK",
+    "name": "Kiskissink",
+    "short_code": "KISK",
+    "country_code": "CAN",
+    "additional_info": "Kiskissink",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.931670184699755",
+      "longitude": "-72.14644432067871",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "VBRU",
+    "name": "Van Bruyssels",
+    "short_code": "VBRU",
+    "country_code": "CAN",
+    "additional_info": "Van Bruyssels",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.93592559923619",
+      "longitude": "-72.1497917175293",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Québec", "Quebec"],
+    "_u_i_c_station_code": "LDES",
+    "name": "Lac des Roches",
+    "short_code": "LDES",
+    "country_code": "CAN",
+    "additional_info": "Lac des Roches",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Lac-Bouchette",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.99974351287884",
+      "longitude": "-72.18360900878906",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "KOND",
+    "name": "Kondiaronk",
+    "short_code": "KOND",
+    "country_code": "CAN",
+    "additional_info": "Kondiaronk",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Kondiaronk",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.01737219340967",
+      "longitude": "-72.18111991882324",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "LIZO",
+    "name": "Club Lizotte",
+    "short_code": "LIZO",
+    "country_code": "CAN",
+    "additional_info": "Club Lizotte",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Lac-Bouchette",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.100262",
+      "longitude": "-72.17882999999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "LBOU",
+    "name": "Lac Bouchette",
+    "short_code": "LBOU",
+    "country_code": "CAN",
+    "additional_info": "Lac Bouchette",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Lac-Bouchette",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.26942609066471",
+      "longitude": "-72.17313766479492",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "CHBD",
+    "name": "Chambord",
+    "short_code": "CHBD",
+    "country_code": "CAN",
+    "additional_info": "Chambord",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Chambord",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.421340499281584",
+      "longitude": "-72.05889701843262",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec", "Hebertville", "Hébertville"],
+    "_u_i_c_station_code": "HEBV",
+    "name": "Hébertville",
+    "short_code": "HEBV",
+    "country_code": "CAN",
+    "additional_info": "Hébertville",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Hébertville",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.443550565334064",
+      "longitude": "-71.66244506835938",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Jonquiere", "Quebec", "Québec", "Jonquière"],
+    "_u_i_c_station_code": "JONQ",
+    "name": "Jonquière",
+    "short_code": "JONQ",
+    "country_code": "CAN",
+    "additional_info": "Jonquière",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Saguenay",
+    "province": "QC",
+    "postal_code": "G7X 3G3",
+    "geo_data": {
+      "latitude": "48.41189828137208",
+      "longitude": "-71.2544059753418",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "JON"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Québec", "Quebec"],
+    "_u_i_c_station_code": "LTUQ",
+    "name": "La Tuque",
+    "short_code": "LTUQ",
+    "country_code": "CAN",
+    "additional_info": "La Tuque",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "550 St-Louis",
+    "city": "La Tuque",
+    "province": "QC",
+    "postal_code": "G9X 2X5",
+    "geo_data": {
+      "latitude": "47.439408865443795",
+      "longitude": "-72.7824068069458",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "FITZ",
+    "name": "Fitzpatrick",
+    "short_code": "FITZ",
+    "country_code": "CAN",
+    "additional_info": "Fitzpatrick",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "R.R. 2., Laviolette Co.",
+    "city": "Fitzpatrick",
+    "province": "QC",
+    "postal_code": "G9X 3N7",
+    "geo_data": {
+      "latitude": "47.48481593214982",
+      "longitude": "-72.77352333068848",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "CRSM",
+    "name": "Cressman",
+    "short_code": "CRSM",
+    "country_code": "CAN",
+    "additional_info": "Cressman",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.62039688565029",
+      "longitude": "-72.91789054870605",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "VMLC",
+    "name": "Club Vermillon",
+    "short_code": "VMLC",
+    "country_code": "CAN",
+    "additional_info": "Club Vermillon",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.66197684034869",
+      "longitude": "-72.98320770263672",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "RAPB",
+    "name": "Rapide-Blanc",
+    "short_code": "RAPB",
+    "country_code": "CAN",
+    "additional_info": "Rapide-Blanc",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Rapide-Blanc",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.6717453504636",
+      "longitude": "-73.0038070678711",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "LDAR",
+    "name": "Lac-Darey",
+    "short_code": "LDAR",
+    "country_code": "CAN",
+    "additional_info": "Lac-Darey",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.67093619422418",
+      "longitude": "-73.14053535461426",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "DUPL",
+    "name": "Duplessis",
+    "short_code": "DUPL",
+    "country_code": "CAN",
+    "additional_info": "Duplessis",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.70040450447455",
+      "longitude": "-73.20808410644531",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "MCTC",
+    "name": "McTavish",
+    "short_code": "MCTC",
+    "country_code": "CAN",
+    "additional_info": "McTavish",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.761627958394",
+      "longitude": "-73.32005023956299",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "WNDG",
+    "name": "Windigo",
+    "short_code": "WNDG",
+    "country_code": "CAN",
+    "additional_info": "Windigo",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.77123359045231",
+      "longitude": "-73.33416938781738",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "FERG",
+    "name": "Ferguson",
+    "short_code": "FERG",
+    "country_code": "CAN",
+    "additional_info": "Ferguson",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.81298159831692",
+      "longitude": "-73.41751098632812",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "WGWC",
+    "name": "Club Wigwam",
+    "short_code": "WGWC",
+    "country_code": "CAN",
+    "additional_info": "Club Wigwam",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.85348659214396",
+      "longitude": "-73.4681510925293",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "VDRY",
+    "name": "Vandry",
+    "short_code": "VDRY",
+    "country_code": "CAN",
+    "additional_info": "Vandry",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.85947611153347",
+      "longitude": "-73.55835914611816",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "DESS",
+    "name": "Dessane",
+    "short_code": "DESS",
+    "country_code": "CAN",
+    "additional_info": "Dessane",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.885672124032325",
+      "longitude": "-73.64002704620361",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec", "Saint-Maurice Rivière Boom"],
+    "_u_i_c_station_code": "SMRB",
+    "name": "Saint-Maurice Rivière Boom",
+    "short_code": "SMRB",
+    "country_code": "CAN",
+    "additional_info": "Saint-Maurice Rivière Boom",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.89850621338898",
+      "longitude": "-73.74933242797852",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "WYMT",
+    "name": "Weymont",
+    "short_code": "WYMT",
+    "country_code": "CAN",
+    "additional_info": "Weymont",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Quebec",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.89790198905784",
+      "longitude": "-73.77542495727539",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "SANM",
+    "name": "Sanmaur",
+    "short_code": "SANM",
+    "country_code": "CAN",
+    "additional_info": "Sanmaur",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.89378732159004",
+      "longitude": "-73.79602432250977",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "CANN",
+    "name": "Cann",
+    "short_code": "CANN",
+    "country_code": "CAN",
+    "additional_info": "Cann",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.902678046094664",
+      "longitude": "-73.8819408416748",
+      "zoom": 14
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Québec", "Quebec", "Club Belanger", "Club Bélanger"],
+    "_u_i_c_station_code": "BLGC",
+    "name": "Club Bélanger",
+    "short_code": "BLGC",
+    "country_code": "CAN",
+    "additional_info": "Club Bélanger",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.92390602624339",
+      "longitude": "-73.93296718597412",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Québec", "Quebec"],
+    "_u_i_c_station_code": "HIBB",
+    "name": "Hibbard",
+    "short_code": "HIBB",
+    "country_code": "CAN",
+    "additional_info": "Hibbard",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.86724993646513",
+      "longitude": "-74.04304504394531",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["New Brunswick", "Nouveau-Brunswick"],
+    "_u_i_c_station_code": "BTRS",
+    "name": "Bathurst",
+    "short_code": "BTRS",
+    "country_code": "CAN",
+    "additional_info": "Bathurst",
+    "connected_stations": [],
+    "timezone": "Canada/Atlantic",
+    "address": "690 Thornton Ave.",
+    "city": "Bathurst",
+    "province": "NB",
+    "postal_code": "E2A 2W8",
+    "geo_data": {
+      "latitude": "47.620223325549446",
+      "longitude": "-65.67064762115479",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "WSHG",
+    "name": "Washago",
+    "short_code": "WSHG",
+    "country_code": "CAN",
+    "additional_info": "Washago",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "3321 Quetton",
+    "city": "Washago",
+    "province": "ON",
+    "postal_code": "L0K 2B0",
+    "geo_data": {
+      "latitude": "44.748362",
+      "longitude": "-79.33487199999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "SPAR",
+    "name": "Parry Sound (Train 1 - Direction Ouest)",
+    "short_code": "SPAR",
+    "country_code": "CAN",
+    "additional_info": "Gare CP",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "1 Avenue Road",
+    "city": "Parry Sound",
+    "province": "ON",
+    "postal_code": "P2A 2A6",
+    "geo_data": {
+      "latitude": "45.3459084",
+      "longitude": "-80.0380182",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "PARS",
+    "name": "Parry Sound (Train 2 - Direction Est)",
+    "short_code": "PARS",
+    "country_code": "CAN",
+    "additional_info": "Gare CN",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "70 Church St.",
+    "city": "Parry Sound",
+    "province": "ON",
+    "postal_code": "P2A 2A6",
+    "geo_data": {
+      "latitude": "45.3506463",
+      "longitude": "-80.0371849",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "SUDJ",
+    "name": "Sudbury Jct",
+    "short_code": "SUDJ",
+    "country_code": "CAN",
+    "additional_info": "Sudbury Jct",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "2750 Lasalle Blvd. E.",
+    "city": "Sudbury Jct",
+    "province": "ON",
+    "postal_code": "P3A 4R7",
+    "geo_data": {
+      "latitude": "46.5244948",
+      "longitude": "-80.9022305",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "SDJ"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "LAFO",
+    "name": "Laforest",
+    "short_code": "LAFO",
+    "country_code": "CAN",
+    "additional_info": "Laforest",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Laforest",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.0346826",
+      "longitude": "-81.21421339999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "MCKC",
+    "name": "McKee's Camp",
+    "short_code": "MCKC",
+    "country_code": "CAN",
+    "additional_info": "McKee's Camp",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "McKee's Camp",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.10646",
+      "longitude": "-81.2590281",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "FELX",
+    "name": "Felix",
+    "short_code": "FELX",
+    "country_code": "CAN",
+    "additional_info": "Felix",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Felix",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.20424999999999",
+      "longitude": "-81.407763",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "RUEL",
+    "name": "Ruel",
+    "short_code": "RUEL",
+    "country_code": "CAN",
+    "additional_info": "Ruel",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Ruel",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.25921659999999",
+      "longitude": "-81.467846",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "WSTR",
+    "name": "Westree",
+    "short_code": "WSTR",
+    "country_code": "CAN",
+    "additional_info": "Westree",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Westree",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.418601",
+      "longitude": "-81.547963",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "MSNH",
+    "name": "Mission Harbour",
+    "short_code": "MSNH",
+    "country_code": "CAN",
+    "additional_info": "Mission Harbour",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "Harbour Ave",
+    "city": "Mission Harbour",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "49.1284045",
+      "longitude": "-122.3034795",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "AGAS",
+    "name": "Agassiz",
+    "short_code": "AGAS",
+    "country_code": "CAN",
+    "additional_info": "Agassiz",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Agassiz",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "49.23955513408011",
+      "longitude": "-121.76424264907837",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "KATZ",
+    "name": "Katz",
+    "short_code": "KATZ",
+    "country_code": "CAN",
+    "additional_info": "Katz",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Katz",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "49.36862525876541",
+      "longitude": "-121.5512752532959",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "NBND",
+    "name": "North Bend",
+    "short_code": "NBND",
+    "country_code": "CAN",
+    "additional_info": "North Bend",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "North Bend",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "49.876867",
+      "longitude": "-121.4496729",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "BBAR",
+    "name": "Boston Bar",
+    "short_code": "BBAR",
+    "country_code": "CAN",
+    "additional_info": "Boston Bar",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Boston Bar",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "49.86938",
+      "longitude": "-121.444652",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "HOPE",
+    "name": "Hope",
+    "short_code": "HOPE",
+    "country_code": "CAN",
+    "additional_info": "Hope",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "6th Avenue and fort Street",
+    "city": "Hope",
+    "province": "BC",
+    "postal_code": "V0X 1L4",
+    "geo_data": {
+      "latitude": "49.37892229534221",
+      "longitude": "-121.4364767074585",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "CHIL",
+    "name": "Chilliwack",
+    "short_code": "CHIL",
+    "country_code": "CAN",
+    "additional_info": "Chilliwack",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "Railway St.",
+    "city": "Chilliwack",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "49.1644915",
+      "longitude": "-121.9492407",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "ABBO",
+    "name": "Abbotsford",
+    "short_code": "ABBO",
+    "country_code": "CAN",
+    "additional_info": "Abbotsford",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "Hargitt Street",
+    "city": "Abbotsford",
+    "province": "BC",
+    "postal_code": "V3G 1M8",
+    "geo_data": {
+      "latitude": "49.11687930000001",
+      "longitude": "-122.2768776",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "CASY",
+    "name": "Casey",
+    "short_code": "CASY",
+    "country_code": "CAN",
+    "additional_info": "Casey",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Casey",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.88785932372457",
+      "longitude": "-74.18106079101562",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "MCCA",
+    "name": "McCarthy",
+    "short_code": "MCCA",
+    "country_code": "CAN",
+    "additional_info": "McCarthy",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.86016716540228",
+      "longitude": "-74.34808731079102",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "SSCC",
+    "name": "Club Sisco",
+    "short_code": "SSCC",
+    "country_code": "CAN",
+    "additional_info": "Club Sisco",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.87916753714323",
+      "longitude": "-74.37435150146484",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "MJBG",
+    "name": "Manjobagues",
+    "short_code": "MJBG",
+    "country_code": "CAN",
+    "additional_info": "Manjobagues",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "La Tuque",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.872834853883475",
+      "longitude": "-74.47168350219727",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "PARE",
+    "name": "Parent",
+    "short_code": "PARE",
+    "country_code": "CAN",
+    "additional_info": "Parent",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "100 Rue Commerciale",
+    "city": "Parent",
+    "province": "QC",
+    "postal_code": "G0X 3P0",
+    "geo_data": {
+      "latitude": "47.91959210124431",
+      "longitude": "-74.61424827575684",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "PAR"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "TIMB",
+    "name": "Timbrell",
+    "short_code": "TIMB",
+    "country_code": "CAN",
+    "additional_info": "Timbrell",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Timbrell",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "47.96803118284337",
+      "longitude": "-74.76445198059082",
+      "zoom": 14
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "RTAC",
+    "name": "Club Rita",
+    "short_code": "RTAC",
+    "country_code": "CAN",
+    "additional_info": "Club Rita",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Club Rita",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.00680719305459",
+      "longitude": "-74.84830856323242",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "STRN",
+    "name": "Strachan",
+    "short_code": "STRN",
+    "country_code": "CAN",
+    "additional_info": "Strachan",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Strachan",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.03011621485452",
+      "longitude": "-74.8659896850586",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "MWWC",
+    "name": "Club Maniwawa",
+    "short_code": "MWWC",
+    "country_code": "CAN",
+    "additional_info": "Club Maniwawa",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Club Maniwawa",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.06809995185229",
+      "longitude": "-74.89585876464844",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "GRNG",
+    "name": "Greening",
+    "short_code": "GRNG",
+    "country_code": "CAN",
+    "additional_info": "Greening",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Greening",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.11740255108226",
+      "longitude": "-74.96847152709961",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec", "Oskélanéo Lodge", "Oskelaneo Lodge"],
+    "_u_i_c_station_code": "OSKL",
+    "name": "Oskélanéo Lodge",
+    "short_code": "OSKL",
+    "country_code": "CAN",
+    "additional_info": "Oskélanéo Lodge",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Oskelaneo River",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.111213657240576",
+      "longitude": "-75.05670547485352",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": [
+      "Québec",
+      "Quebec",
+      "Oskelaneo River",
+      "Riviere Oskelaneo",
+      "Oskélanéo River",
+      "Rivière Oskélanéo"
+    ],
+    "_u_i_c_station_code": "OSKR",
+    "name": "Rivière Oskélanéo",
+    "short_code": "OSKR",
+    "country_code": "CAN",
+    "additional_info": "Rivière Oskélanéo",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Oskelaneo River",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.10817624222295",
+      "longitude": "-75.20493507385254",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "CLOV",
+    "name": "Clova",
+    "short_code": "CLOV",
+    "country_code": "CAN",
+    "additional_info": "Clova",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Clova",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.10972362702286",
+      "longitude": "-75.35985946655273",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "COQU",
+    "name": "Coquar",
+    "short_code": "COQU",
+    "country_code": "CAN",
+    "additional_info": "Coquar",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Coquar",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.11872045997405",
+      "longitude": "-75.4786491394043",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "MNET",
+    "name": "Monet",
+    "short_code": "MNET",
+    "country_code": "CAN",
+    "additional_info": "Monet",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Monet",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.16952011228156",
+      "longitude": "-75.64395904541016",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "CBAT",
+    "name": "Consolidated Bathurst",
+    "short_code": "CBAT",
+    "country_code": "CAN",
+    "additional_info": "Consolidated Bathurst",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Senneterre",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.19435754433255",
+      "longitude": "-75.74755668640137",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "KPTC",
+    "name": "Club Kapitachuan",
+    "short_code": "KPTC",
+    "country_code": "CAN",
+    "additional_info": "Club Kapitachuan",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Club Kapitachuan",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.196531677389856",
+      "longitude": "-75.80892562866211",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "BRMT",
+    "name": "Bourmont",
+    "short_code": "BRMT",
+    "country_code": "CAN",
+    "additional_info": "Bourmont",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Bourmont",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.200536417839196",
+      "longitude": "-75.83192825317383",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "BDNC",
+    "name": "Club Beaudin",
+    "short_code": "BDNC",
+    "country_code": "CAN",
+    "additional_info": "Club Beaudin",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Club Beaudin",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.211033072948936",
+      "longitude": "-75.89655876159668",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "LNGL",
+    "name": "Langlade",
+    "short_code": "LNGL",
+    "country_code": "CAN",
+    "additional_info": "Langlade",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Langlade",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.23036188090236",
+      "longitude": "-75.98702430725098",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Québec", "Quebec"],
+    "_u_i_c_station_code": "DRLL",
+    "name": "Da-Rou-Lac Lodge",
+    "short_code": "DRLL",
+    "country_code": "CAN",
+    "additional_info": "Da-Rou-Lac Lodge",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Da-Rou-Lac Lodge",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.22961860016214",
+      "longitude": "-75.99856853485107",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "GAGN",
+    "name": "Gagnon",
+    "short_code": "GAGN",
+    "country_code": "CAN",
+    "additional_info": "Gagnon",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Gagnon",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.249511930342166",
+      "longitude": "-76.11375331878662",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "DIXX",
+    "name": "Dix",
+    "short_code": "DIXX",
+    "country_code": "CAN",
+    "additional_info": "Dix",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Dix",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.25345537857221",
+      "longitude": "-76.14718437194824",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "BGQU",
+    "name": "Bolger",
+    "short_code": "BGQU",
+    "country_code": "CAN",
+    "additional_info": "Bolger",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Bolger",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.25231238139834",
+      "longitude": "-76.32081985473633",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "FORS",
+    "name": "Forsythe",
+    "short_code": "FORS",
+    "country_code": "CAN",
+    "additional_info": "Forsythe",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Forsythe",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.235421620572104",
+      "longitude": "-76.42836570739746",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Québec", "Quebec"],
+    "_u_i_c_station_code": "PRSS",
+    "name": "Press",
+    "short_code": "PRSS",
+    "country_code": "CAN",
+    "additional_info": "Press",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Press",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.24242438947827",
+      "longitude": "-76.73340797424316",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "SIGN",
+    "name": "Signai",
+    "short_code": "SIGN",
+    "country_code": "CAN",
+    "additional_info": "Signai",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Signai",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.29590675685155",
+      "longitude": "-76.82965636253357",
+      "zoom": 16
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Megiscane", "Québec", "Quebec", "Mégiscane"],
+    "_u_i_c_station_code": "MEGI",
+    "name": "Mégiscane",
+    "short_code": "MEGI",
+    "country_code": "CAN",
+    "additional_info": "Mégiscane",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Megiscane",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.33300227617671",
+      "longitude": "-77.08419799804688",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "SENN",
+    "name": "Senneterre",
+    "short_code": "SENN",
+    "country_code": "CAN",
+    "additional_info": "Senneterre",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Senneterre",
+    "province": "QC",
+    "geo_data": {
+      "latitude": "48.39216792961373",
+      "longitude": "-77.24440097808838",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "SEN"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Quebec", "Québec"],
+    "_u_i_c_station_code": "ANJO",
+    "name": "Anjou",
+    "short_code": "ANJO",
+    "country_code": "CAN",
+    "additional_info": "Anjou",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "7260, 8e Rue",
+    "city": "Anjou",
+    "province": "QC",
+    "postal_code": "H1E 3A6",
+    "geo_data": {
+      "latitude": "45.6183077",
+      "longitude": "-73.5962882",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "GOGA",
+    "name": "Gogama",
+    "short_code": "GOGA",
+    "country_code": "CAN",
+    "additional_info": "Gogama",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Gogama",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.6761105",
+      "longitude": "-81.7237169",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "FOLE",
+    "name": "Foleyet",
+    "short_code": "FOLE",
+    "country_code": "CAN",
+    "additional_info": "Foleyet",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Foleyet",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "48.246841",
+      "longitude": "-82.440259",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "ELSA",
+    "name": "Elsas",
+    "short_code": "ELSA",
+    "country_code": "CAN",
+    "additional_info": "Elsas",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Elsa",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "48.521081",
+      "longitude": "-82.9031",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "OBAX",
+    "name": "OBA",
+    "short_code": "OBAX",
+    "country_code": "CAN",
+    "additional_info": "OBA",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "Railway St.",
+    "city": "Oba",
+    "province": "ON",
+    "postal_code": "P0M 2P0",
+    "geo_data": {
+      "latitude": "49.059565",
+      "longitude": "-84.105718",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "HLSP",
+    "name": "Hillsport",
+    "short_code": "HLSP",
+    "country_code": "CAN",
+    "additional_info": "Hillsport",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Hillsport",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "49.451026",
+      "longitude": "-85.54803",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "CARA",
+    "name": "Caramat",
+    "short_code": "CARA",
+    "country_code": "CAN",
+    "additional_info": "Caramat",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Caramat",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "49.617783",
+      "longitude": "-86.13815",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "LLAC",
+    "name": "Longlac",
+    "short_code": "LLAC",
+    "country_code": "CAN",
+    "additional_info": "Longlac",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "National St",
+    "city": "Longlac",
+    "province": "ON",
+    "postal_code": "P0T 2A0",
+    "geo_data": {
+      "latitude": "49.77185799999999",
+      "longitude": "-86.534975",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "NAKI",
+    "name": "Nakina",
+    "short_code": "NAKI",
+    "country_code": "CAN",
+    "additional_info": "Nakina",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "Railway St",
+    "city": "Nakina",
+    "province": "ON",
+    "postal_code": "P0T 2H0",
+    "geo_data": {
+      "latitude": "50.17773",
+      "longitude": "-86.71351",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "AUDN",
+    "name": "Auden",
+    "short_code": "AUDN",
+    "country_code": "CAN",
+    "additional_info": "Auden",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Auden",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "50.2291663",
+      "longitude": "-87.88987519999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "FERL",
+    "name": "Ferland",
+    "short_code": "FERL",
+    "country_code": "CAN",
+    "additional_info": "Ferland",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Ferland",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "50.3144193",
+      "longitude": "-88.42599009999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "MUDR",
+    "name": "Mud River",
+    "short_code": "MUDR",
+    "country_code": "CAN",
+    "additional_info": "Mud River",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Mud River",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "50.3185245",
+      "longitude": "-88.516649",
+      "zoom": 14
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "ARMG",
+    "name": "Armstrong",
+    "short_code": "ARMG",
+    "country_code": "CAN",
+    "additional_info": "Armstrong",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "King St.",
+    "city": "Armstrong",
+    "province": "ON",
+    "postal_code": "P0T 1A0",
+    "geo_data": {
+      "latitude": "50.301424",
+      "longitude": "-89.03760299999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "FLTL",
+    "name": "Flindt Landing",
+    "short_code": "FLTL",
+    "country_code": "CAN",
+    "additional_info": "Flindt Landing",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Flindt Landing",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "50.242603",
+      "longitude": "-90.47761799999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "SAVL",
+    "name": "Savant Lake",
+    "short_code": "SAVL",
+    "country_code": "CAN",
+    "additional_info": "Savant Lake",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Savant Lake",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "50.23853",
+      "longitude": "-90.7064803",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "RCHN",
+    "name": "Richan",
+    "short_code": "RCHN",
+    "country_code": "CAN",
+    "additional_info": "Richan",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Richan",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "49.9948359",
+      "longitude": "-92.82826469999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "RLRX",
+    "name": "Red Lake Road",
+    "short_code": "RLRX",
+    "country_code": "CAN",
+    "additional_info": "Red Lake Road",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Red Lake Road",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "49.973263",
+      "longitude": "-93.357647",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "CNYK",
+    "name": "Canyon",
+    "short_code": "CNYK",
+    "country_code": "CAN",
+    "additional_info": "Canyon",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Canyon",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "49.9800724",
+      "longitude": "-93.744402",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "FARL",
+    "name": "Farlane",
+    "short_code": "FARL",
+    "country_code": "CAN",
+    "additional_info": "Farlane",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Farlane",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "50.007073",
+      "longitude": "-94.20047799999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "RDDT",
+    "name": "Redditt",
+    "short_code": "RDDT",
+    "country_code": "CAN",
+    "additional_info": "Redditt",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Redditt",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "49.9784455",
+      "longitude": "-94.3938177",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "MNKI",
+    "name": "Minaki",
+    "short_code": "MNKI",
+    "country_code": "CAN",
+    "additional_info": "Minaki",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Minaki",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "49.98497279999999",
+      "longitude": "-94.6701568",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "OTTM",
+    "name": "Ottermere",
+    "short_code": "OTTM",
+    "country_code": "CAN",
+    "additional_info": "Ottermere",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Ottermere",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "49.92455200000001",
+      "longitude": "-94.934287",
+      "zoom": 14
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "MLCH",
+    "name": "Malachi",
+    "short_code": "MLCH",
+    "country_code": "CAN",
+    "additional_info": "Malachi",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Malachi",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "49.929327",
+      "longitude": "-94.99087589999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "COPE",
+    "name": "Copelands Landing",
+    "short_code": "COPE",
+    "country_code": "CAN",
+    "additional_info": "Copelands Landing",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Copelands Landing",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "49.9174948",
+      "longitude": "-95.0013446",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "RCLK",
+    "name": "Rice Lake",
+    "short_code": "RCLK",
+    "country_code": "CAN",
+    "additional_info": "Rice Lake",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Rice Lake",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "49.89034299999999",
+      "longitude": "-95.130523",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "WNTB",
+    "name": "Winnitoba",
+    "short_code": "WNTB",
+    "country_code": "CAN",
+    "additional_info": "Winnitoba",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Winnitoba",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "49.8835959",
+      "longitude": "-95.1946001",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "OPHR",
+    "name": "Ophir",
+    "short_code": "OPHR",
+    "country_code": "CAN",
+    "additional_info": "Ophir",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Ophir",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "49.870822",
+      "longitude": "-95.260035",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "BRTL",
+    "name": "Brereton Lake",
+    "short_code": "BRTL",
+    "country_code": "CAN",
+    "additional_info": "Brereton Lake",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Brereton Lake",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "49.8804356",
+      "longitude": "-95.53063809999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "ELMA",
+    "name": "Elma",
+    "short_code": "ELMA",
+    "country_code": "CAN",
+    "additional_info": "Elma",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Elma",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "49.874105",
+      "longitude": "-95.91004699999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "PLPX",
+    "name": "Portage la Prairie",
+    "short_code": "PLPX",
+    "country_code": "CAN",
+    "additional_info": "Portage la Prairie",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "130 Fisher Ave.",
+    "city": "Portage la Prairie",
+    "province": "MB",
+    "postal_code": "R1N 0G6",
+    "geo_data": {
+      "latitude": "49.9771717",
+      "longitude": "-98.28846139999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "RVRS",
+    "name": "Rivers",
+    "short_code": "RVRS",
+    "country_code": "CAN",
+    "additional_info": "Rivers",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Rivers",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "50.02900440000001",
+      "longitude": "-100.2388501",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "ASHN",
+    "name": "Ashcroft",
+    "short_code": "ASHN",
+    "country_code": "CAN",
+    "additional_info": "Ashcroft",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "Caribou Rd",
+    "city": "Ashcroft",
+    "province": "BC",
+    "postal_code": "V0K 1A0",
+    "geo_data": {
+      "latitude": "50.730397",
+      "longitude": "-121.26929",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Saskatchewan"],
+    "_u_i_c_station_code": "BIGG",
+    "name": "Biggar",
+    "short_code": "BIGG",
+    "country_code": "CAN",
+    "additional_info": "Biggar",
+    "connected_stations": [],
+    "timezone": "Etc/GMT+6",
+    "address": "-",
+    "city": "Biggar",
+    "province": "SK",
+    "geo_data": {
+      "latitude": "52.05372029999999",
+      "longitude": "-107.988277",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Saskatchewan"],
+    "_u_i_c_station_code": "WATR",
+    "name": "Watrous",
+    "short_code": "WATR",
+    "country_code": "CAN",
+    "additional_info": "Watrous",
+    "connected_stations": [],
+    "timezone": "Etc/GMT+6",
+    "address": "-",
+    "city": "Watrous",
+    "province": "SK",
+    "geo_data": {
+      "latitude": "51.670986",
+      "longitude": "-105.468425",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Alberta"],
+    "_u_i_c_station_code": "VKNG",
+    "name": "Viking",
+    "short_code": "VKNG",
+    "country_code": "CAN",
+    "additional_info": "Viking",
+    "connected_stations": [],
+    "timezone": "Canada/Mountain",
+    "address": "-",
+    "city": "Viking",
+    "province": "AB",
+    "geo_data": {
+      "latitude": "53.092586",
+      "longitude": "-111.7781331",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Alberta"],
+    "_u_i_c_station_code": "EVAN",
+    "name": "Evansburg",
+    "short_code": "EVAN",
+    "country_code": "CAN",
+    "additional_info": "Evansburg",
+    "connected_stations": [],
+    "timezone": "Canada/Mountain",
+    "address": "-",
+    "city": "Evansburg",
+    "province": "AB",
+    "geo_data": {
+      "latitude": "53.594514",
+      "longitude": "-115.008595",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Alberta"],
+    "_u_i_c_station_code": "EDSN",
+    "name": "Edson",
+    "short_code": "EDSN",
+    "country_code": "CAN",
+    "additional_info": "Edson",
+    "connected_stations": [],
+    "timezone": "Canada/Mountain",
+    "address": "5001, 1st Avenue West",
+    "city": "Edson",
+    "province": "AB",
+    "geo_data": {
+      "latitude": "53.579558",
+      "longitude": "-116.430566",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Alberta"],
+    "_u_i_c_station_code": "HINT",
+    "name": "Hinton",
+    "short_code": "HINT",
+    "country_code": "CAN",
+    "additional_info": "Hinton",
+    "connected_stations": [],
+    "timezone": "Canada/Mountain",
+    "address": "-",
+    "city": "Hinton",
+    "province": "AB",
+    "geo_data": {
+      "latitude": "53.4005",
+      "longitude": "-117.590048",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "BLUE",
+    "name": "Blue River",
+    "short_code": "BLUE",
+    "country_code": "CAN",
+    "additional_info": "Blue River",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Blue River",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "52.105382",
+      "longitude": "-119.300439",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "CLWT",
+    "name": "Clearwater",
+    "short_code": "CLWT",
+    "country_code": "CAN",
+    "additional_info": "Clearwater",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Clearwater",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "51.63789",
+      "longitude": "-120.0333789",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "SUDB",
+    "name": "Sudbury",
+    "short_code": "SUDB",
+    "country_code": "CAN",
+    "additional_info": "Sudbury",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "233 Elgin St.",
+    "city": "Sudbury",
+    "province": "ON",
+    "postal_code": "P3E 3N7",
+    "geo_data": {
+      "latitude": "46.4873646",
+      "longitude": "-80.9919029",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "SUD"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "AZIL",
+    "name": "Azilda",
+    "short_code": "AZIL",
+    "country_code": "CAN",
+    "additional_info": "Azilda",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Azilda",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "46.56410700000001",
+      "longitude": "-81.138044",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "CHEL",
+    "name": "Chelmsford",
+    "short_code": "CHEL",
+    "country_code": "CAN",
+    "additional_info": "Chelmsford",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Chelmsford",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "46.585767",
+      "longitude": "-81.196787",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "LARC",
+    "name": "Larchwood",
+    "short_code": "LARC",
+    "country_code": "CAN",
+    "additional_info": "Larchwood",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Larchwood",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "46.57262",
+      "longitude": "-81.28630299999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "LEVA",
+    "name": "Levack",
+    "short_code": "LEVA",
+    "country_code": "CAN",
+    "additional_info": "Levack",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Levack",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "46.616805",
+      "longitude": "-81.43404799999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "CART",
+    "name": "Cartier",
+    "short_code": "CART",
+    "country_code": "CAN",
+    "additional_info": "Cartier",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Cartier",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "46.706104",
+      "longitude": "-81.55726399999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "BENN",
+    "name": "Benny",
+    "short_code": "BENN",
+    "country_code": "CAN",
+    "additional_info": "Benny",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Benny",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "46.781815",
+      "longitude": "-81.630163",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "STRL",
+    "name": "Stralak",
+    "short_code": "STRL",
+    "country_code": "CAN",
+    "additional_info": "Stralak",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Stralak",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "46.804797",
+      "longitude": "-81.680016",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "POGA",
+    "name": "Pogamasing",
+    "short_code": "POGA",
+    "country_code": "CAN",
+    "additional_info": "Pogamasing",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Pogamasing",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "46.908917",
+      "longitude": "-81.773197",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "SHEA",
+    "name": "Sheahan",
+    "short_code": "SHEA",
+    "country_code": "CAN",
+    "additional_info": "Sheahan",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Sheahan",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "46.940241",
+      "longitude": "-81.797855",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "FRKS",
+    "name": "Forks",
+    "short_code": "FRKS",
+    "country_code": "CAN",
+    "additional_info": "Forks",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Forks",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.0487724",
+      "longitude": "-81.86376303434372",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "MTGM",
+    "name": "Metagama",
+    "short_code": "MTGM",
+    "country_code": "CAN",
+    "additional_info": "Metagama",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Metagama",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.09264599999999",
+      "longitude": "-81.94363",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "SNKR",
+    "name": "Sinker",
+    "short_code": "SNKR",
+    "country_code": "CAN",
+    "additional_info": "Sinker",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Sinker",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.148516764471516",
+      "longitude": "-81.9605827331543",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "BISC",
+    "name": "Biscotasing",
+    "short_code": "BISC",
+    "country_code": "CAN",
+    "additional_info": "Biscotasing",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Biscotasing",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.299983",
+      "longitude": "-82.102955",
+      "zoom": 16
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "RBRT",
+    "name": "Robert",
+    "short_code": "RBRT",
+    "country_code": "CAN",
+    "additional_info": "Robert",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Robert",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.330224",
+      "longitude": "-82.199461",
+      "zoom": 16
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "RAMS",
+    "name": "Ramsey",
+    "short_code": "RAMS",
+    "country_code": "CAN",
+    "additional_info": "Ramsey",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Ramsey",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.446379330357225",
+      "longitude": "-82.33870178461075",
+      "zoom": 16
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "WOMR",
+    "name": "Woman River",
+    "short_code": "WOMR",
+    "country_code": "CAN",
+    "additional_info": "Woman River",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Woman River",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.511624",
+      "longitude": "-82.628067",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "SULT",
+    "name": "Sultan",
+    "short_code": "SULT",
+    "country_code": "CAN",
+    "additional_info": "Sultan",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Sultan",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.594677",
+      "longitude": "-82.772959",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "KORM",
+    "name": "Kormak",
+    "short_code": "KORM",
+    "country_code": "CAN",
+    "additional_info": "Kormak",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Kormak",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.631224",
+      "longitude": "-82.972526",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "KINO",
+    "name": "Kinogama",
+    "short_code": "KINO",
+    "country_code": "CAN",
+    "additional_info": "Kinogama",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Kinogama",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.644993",
+      "longitude": "-83.01296599999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "NEME",
+    "name": "Nemegos",
+    "short_code": "NEME",
+    "country_code": "CAN",
+    "additional_info": "Nemegos",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Nemegos",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.72532",
+      "longitude": "-83.20261699999999",
+      "zoom": 16
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "DEVN",
+    "name": "Devon",
+    "short_code": "DEVN",
+    "country_code": "CAN",
+    "additional_info": "Devon",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Devon",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.759732",
+      "longitude": "-83.36704",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "CHAP",
+    "name": "Chapleau",
+    "short_code": "CHAP",
+    "country_code": "CAN",
+    "additional_info": "Chapleau",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "Dufferin St.",
+    "city": "Chapleau",
+    "province": "ON",
+    "postal_code": "P0M 1K0",
+    "geo_data": {
+      "latitude": "47.841444",
+      "longitude": "-83.40312999999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "CHP"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "ESHR",
+    "name": "Esher",
+    "short_code": "ESHR",
+    "country_code": "CAN",
+    "additional_info": "Esher",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Esher",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.852356",
+      "longitude": "-83.563047",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "MUSK",
+    "name": "Musk",
+    "short_code": "MUSK",
+    "country_code": "CAN",
+    "additional_info": "Musk",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Musk",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.949026",
+      "longitude": "-83.707179",
+      "zoom": 14
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "NICH",
+    "name": "Nicholson",
+    "short_code": "NICH",
+    "country_code": "CAN",
+    "additional_info": "Nicholson",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Nicholson",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "47.957417",
+      "longitude": "-83.765483",
+      "zoom": 16
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "BOLK",
+    "name": "Bolkow",
+    "short_code": "BOLK",
+    "country_code": "CAN",
+    "additional_info": "Bolkow",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Bolkow",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "48.108349",
+      "longitude": "-83.909323",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "DALT",
+    "name": "Dalton",
+    "short_code": "DALT",
+    "country_code": "CAN",
+    "additional_info": "Dalton",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Dalton",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "48.158228",
+      "longitude": "-84.034513",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "MSBI",
+    "name": "Missanabie",
+    "short_code": "MSBI",
+    "country_code": "CAN",
+    "additional_info": "Missanabie",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Missanabie",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "48.311259",
+      "longitude": "-84.08487099999999",
+      "zoom": 16
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "LOCH",
+    "name": "Lochalsh",
+    "short_code": "LOCH",
+    "country_code": "CAN",
+    "additional_info": "Lochalsh",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Lochalsh",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "48.351378",
+      "longitude": "-84.264006",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "FRNZ",
+    "name": "Franz",
+    "short_code": "FRNZ",
+    "country_code": "CAN",
+    "additional_info": "Franz",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Franz",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "48.465157",
+      "longitude": "-84.41207299999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "SWAN",
+    "name": "Swanson",
+    "short_code": "SWAN",
+    "country_code": "CAN",
+    "additional_info": "Swanson",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Swanson",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "48.4828215",
+      "longitude": "-84.5348451",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "GIRD",
+    "name": "Girdwood",
+    "short_code": "GIRD",
+    "country_code": "CAN",
+    "additional_info": "Girdwood",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Girdwood",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "48.457978",
+      "longitude": "-84.77104399999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "AMYO",
+    "name": "Amyot",
+    "short_code": "AMYO",
+    "country_code": "CAN",
+    "additional_info": "Amyot",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "Amyot",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "48.4828773",
+      "longitude": "-84.9541218",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "OBRI",
+    "name": "O'Brien",
+    "short_code": "OBRI",
+    "country_code": "CAN",
+    "additional_info": "O'Brien",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "-",
+    "city": "O'Brien",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "48.517478",
+      "longitude": "-85.13911499999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "WHTR",
+    "name": "White River",
+    "short_code": "WHTR",
+    "country_code": "CAN",
+    "additional_info": "White River",
+    "connected_stations": [],
+    "timezone": "Canada/Eastern",
+    "address": "Winnipeg St. North",
+    "city": "White River",
+    "province": "ON",
+    "postal_code": "P0M 3G0",
+    "geo_data": {
+      "latitude": "48.5893097",
+      "longitude": "-85.2823295",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "WHT"
+      }
+    ]
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "HRVY",
+    "name": "Harvey",
+    "short_code": "HRVY",
+    "country_code": "CAN",
+    "additional_info": "Harvey",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Harvey",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "52.9583306",
+      "longitude": "-119.4468276",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "DNST",
+    "name": "Dunster",
+    "short_code": "DNST",
+    "country_code": "CAN",
+    "additional_info": "Dunster",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Dunster",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "53.123413",
+      "longitude": "-119.837813",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "MCBR",
+    "name": "McBride",
+    "short_code": "MCBR",
+    "country_code": "CAN",
+    "additional_info": "McBride",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "Main St & 1st Ave",
+    "city": "McBride",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "53.300555",
+      "longitude": "-120.1703",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "GOAT",
+    "name": "Goat River",
+    "short_code": "GOAT",
+    "country_code": "CAN",
+    "additional_info": "Goat River",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Goat River",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "53.537695",
+      "longitude": "-120.592519",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "LOOS",
+    "name": "Loos",
+    "short_code": "LOOS",
+    "country_code": "CAN",
+    "additional_info": "Loos",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Loos",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "53.607823",
+      "longitude": "-120.723372",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "DOMC",
+    "name": "Dome Creek",
+    "short_code": "DOMC",
+    "country_code": "CAN",
+    "additional_info": "Dome Creek",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Dome Creek",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "53.748105",
+      "longitude": "-121.0299259",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "DOM"
+      }
+    ]
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "BEND",
+    "name": "Bend",
+    "short_code": "BEND",
+    "country_code": "CAN",
+    "additional_info": "Bend",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Bend",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "53.76734099999999",
+      "longitude": "-121.065261",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "PENN",
+    "name": "Penny",
+    "short_code": "PENN",
+    "country_code": "CAN",
+    "additional_info": "Penny",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Penny",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "53.842544",
+      "longitude": "-121.28936",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "LWTH",
+    "name": "Longworth",
+    "short_code": "LWTH",
+    "country_code": "CAN",
+    "additional_info": "Longworth",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Longworth",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "53.922269",
+      "longitude": "-121.4634939",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "HUTT",
+    "name": "Hutton",
+    "short_code": "HUTT",
+    "country_code": "CAN",
+    "additional_info": "Hutton",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Hutton",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "53.988689",
+      "longitude": "-121.6216311",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "SINM",
+    "name": "Sinclair Mills",
+    "short_code": "SINM",
+    "country_code": "CAN",
+    "additional_info": "Sinclair Mills",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Sinclair Mills",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "54.019372",
+      "longitude": "-121.678516",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "MCGR",
+    "name": "McGregor",
+    "short_code": "MCGR",
+    "country_code": "CAN",
+    "additional_info": "McGregor",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "McGregor",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "54.076925",
+      "longitude": "-121.843477",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "UFRZ",
+    "name": "Upper Frazer",
+    "short_code": "UFRZ",
+    "country_code": "CAN",
+    "additional_info": "Upper Frazer",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Upper Frazer",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "54.120005",
+      "longitude": "-121.9466481",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "ALZL",
+    "name": "Aleza Lake",
+    "short_code": "ALZL",
+    "country_code": "CAN",
+    "additional_info": "Aleza Lake",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Aleza Lake",
+    "province": "BC",
+    "postal_code": "V0J 2Z0",
+    "geo_data": {
+      "latitude": "54.114831",
+      "longitude": "-122.0551291",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "WILR",
+    "name": "Willow River",
+    "short_code": "WILR",
+    "country_code": "CAN",
+    "additional_info": "Willow River",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Willow River",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "54.073935",
+      "longitude": "-122.477345",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "PGEO",
+    "name": "Prince George",
+    "short_code": "PGEO",
+    "country_code": "CAN",
+    "additional_info": "Prince George",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "1300- 1st Ave.",
+    "city": "Prince George",
+    "province": "BC",
+    "postal_code": "V2L 2Y3",
+    "geo_data": {
+      "latitude": "53.9191732",
+      "longitude": "-122.7442251",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "PGE"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "VDRH",
+    "name": "Vanderhoof",
+    "short_code": "VDRH",
+    "country_code": "CAN",
+    "additional_info": "Vanderhoof",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Vanderhoof",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "54.01459699999999",
+      "longitude": "-124.012017",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia"],
+    "_u_i_c_station_code": "FFRA",
+    "name": "Fort Fraser",
+    "short_code": "FFRA",
+    "country_code": "CAN",
+    "additional_info": "Fort Fraser",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Fort Fraser",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "54.05841599999999",
+      "longitude": "-124.5542239",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "ENDA",
+    "name": "Endako",
+    "short_code": "ENDA",
+    "country_code": "CAN",
+    "additional_info": "Endako",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Endako",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "54.08525299999999",
+      "longitude": "-125.021369",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "BRNL",
+    "name": "Burns Lake",
+    "short_code": "BRNL",
+    "country_code": "CAN",
+    "additional_info": "Burns Lake",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Burns Lake",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "54.22897099999999",
+      "longitude": "-125.764128",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "HOUS",
+    "name": "Houston",
+    "short_code": "HOUS",
+    "country_code": "CAN",
+    "additional_info": "Houston",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Houston",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "54.400327",
+      "longitude": "-126.650353",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "TELK",
+    "name": "Telkwa",
+    "short_code": "TELK",
+    "country_code": "CAN",
+    "additional_info": "Telkwa",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Telkwa",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "54.6914023",
+      "longitude": "-127.0505338",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "SMTR",
+    "name": "Smithers",
+    "short_code": "SMTR",
+    "country_code": "CAN",
+    "additional_info": "Smithers",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "202-3815 Railway Ave",
+    "city": "Smithers",
+    "province": "BC",
+    "postal_code": "VOJ 2N3",
+    "geo_data": {
+      "latitude": "54.777708",
+      "longitude": "-127.1762189",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "SMT"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "NHAZ",
+    "name": "New Hazelton",
+    "short_code": "NHAZ",
+    "country_code": "CAN",
+    "additional_info": "New Hazelton",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "New Hazelton",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "55.25068",
+      "longitude": "-127.578331",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "KITW",
+    "name": "Kitwanga",
+    "short_code": "KITW",
+    "country_code": "CAN",
+    "additional_info": "Kitwanga",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Kitwanga",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "55.09937069999999",
+      "longitude": "-128.0514937",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "CEDA",
+    "name": "Cedarvale",
+    "short_code": "CEDA",
+    "country_code": "CAN",
+    "additional_info": "Cedarvale",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Cedarvale",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "55.020764",
+      "longitude": "-128.3231919",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "DORR",
+    "name": "Dorreen",
+    "short_code": "DORR",
+    "country_code": "CAN",
+    "additional_info": "Dorreen",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Dorreen",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "54.840788",
+      "longitude": "-128.343892",
+      "zoom": 14
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "PACI",
+    "name": "Pacific",
+    "short_code": "PACI",
+    "country_code": "CAN",
+    "additional_info": "Pacific",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Pacific",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "54.770815",
+      "longitude": "-128.272199",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "USKX",
+    "name": "Usk",
+    "short_code": "USKX",
+    "country_code": "CAN",
+    "additional_info": "Usk",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Usk",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "54.636477",
+      "longitude": "-128.4160139",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "TRRC",
+    "name": "Terrace",
+    "short_code": "TRRC",
+    "country_code": "CAN",
+    "additional_info": "Terrace",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "3100 Kalum Street",
+    "city": "Terrace",
+    "province": "BC",
+    "postal_code": "V8G 4L1",
+    "geo_data": {
+      "latitude": "54.514657",
+      "longitude": "-128.5868681",
+      "zoom": 16
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "TRR"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "KWIN",
+    "name": "Kwinitsa",
+    "short_code": "KWIN",
+    "country_code": "CAN",
+    "additional_info": "Kwinitsa",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Kwinitsa",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "54.225714",
+      "longitude": "-129.555598",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "CASS",
+    "name": "Cassiar Cannery",
+    "short_code": "CASS",
+    "country_code": "CAN",
+    "additional_info": "Cassiar Cannery",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "3900 Skeena Drive",
+    "city": "Port Edward",
+    "province": "BC",
+    "postal_code": "V0V 1G0",
+    "geo_data": {
+      "latitude": "54.1780217",
+      "longitude": "-130.1763966",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "PRUP",
+    "name": "Prince Rupert",
+    "short_code": "PRUP",
+    "country_code": "CAN",
+    "additional_info": "Prince Rupert",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "2000 Park Ave (PO Box 1033)",
+    "city": "Prince Rupert",
+    "province": "BC",
+    "postal_code": "V8J 4P7",
+    "geo_data": {
+      "latitude": "54.29587189999999",
+      "longitude": "-130.3519599",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "PRU"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "GSTO",
+    "name": "Gladstone",
+    "short_code": "GSTO",
+    "country_code": "CAN",
+    "additional_info": "Gladstone",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "Lorne St.",
+    "city": "Gladstone",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "50.225207",
+      "longitude": "-98.947926",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "PLUM",
+    "name": "Plumas",
+    "short_code": "PLUM",
+    "country_code": "CAN",
+    "additional_info": "Plumas",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "Mckenzie Ave & Anderson St",
+    "city": "Plumas",
+    "province": "MB",
+    "postal_code": "R0J 1P0",
+    "geo_data": {
+      "latitude": "50.384383",
+      "longitude": "-99.08946499999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": [],
+    "_u_i_c_station_code": "GLNA",
+    "name": "Glenella",
+    "short_code": "GLNA",
+    "country_code": "CAN",
+    "additional_info": "Glenella",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Glenella",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "50.556422",
+      "longitude": "-99.19520399999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "MCCR",
+    "name": "McCreary",
+    "short_code": "MCCR",
+    "country_code": "CAN",
+    "additional_info": "McCreary",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "Railway St.",
+    "city": "McCreary",
+    "province": "MB",
+    "postal_code": "R0J 1B0",
+    "geo_data": {
+      "latitude": "50.773606",
+      "longitude": "-99.48946300000001",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "LRIE",
+    "name": "Laurier",
+    "short_code": "LRIE",
+    "country_code": "CAN",
+    "additional_info": "Laurier",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Laurier",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "50.886316",
+      "longitude": "-99.56062899999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "OCHR",
+    "name": "Ochre River",
+    "short_code": "OCHR",
+    "country_code": "CAN",
+    "additional_info": "Ochre River",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Ochre River",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "51.06139890000001",
+      "longitude": "-99.7818674",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "DAUP",
+    "name": "Dauphin",
+    "short_code": "DAUP",
+    "country_code": "CAN",
+    "additional_info": "Dauphin",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "101 1st Ave. NW",
+    "city": "Dauphin",
+    "province": "MB",
+    "postal_code": "R7N 1G8",
+    "geo_data": {
+      "latitude": "51.150241",
+      "longitude": "-100.052322",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "GLBP",
+    "name": "Gilbert Plains",
+    "short_code": "GLBP",
+    "country_code": "CAN",
+    "additional_info": "Gilbert Plains",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Gilbert Plains",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "51.147783",
+      "longitude": "-100.490539",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "GVIE",
+    "name": "Grandview",
+    "short_code": "GVIE",
+    "country_code": "CAN",
+    "additional_info": "Grandview",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Grandview",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "51.173255",
+      "longitude": "-100.701194",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "RBLN",
+    "name": "Roblin",
+    "short_code": "RBLN",
+    "country_code": "CAN",
+    "additional_info": "Roblin",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "126 First Ave. North West",
+    "city": "Roblin",
+    "province": "MB",
+    "postal_code": "R0L 1P0",
+    "geo_data": {
+      "latitude": "51.230314",
+      "longitude": "-101.352571",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Saskatchewan"],
+    "_u_i_c_station_code": "TOGO",
+    "name": "Togo",
+    "short_code": "TOGO",
+    "country_code": "CAN",
+    "additional_info": "Togo",
+    "connected_stations": [],
+    "timezone": "Etc/GMT+6",
+    "address": "-",
+    "city": "Togo",
+    "province": "SK",
+    "geo_data": {
+      "latitude": "51.403019",
+      "longitude": "-101.58655",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Saskatchewan"],
+    "_u_i_c_station_code": "KAMS",
+    "name": "Kamsack",
+    "short_code": "KAMS",
+    "country_code": "CAN",
+    "additional_info": "Kamsack",
+    "connected_stations": [],
+    "timezone": "Etc/GMT+6",
+    "address": "-",
+    "city": "Kamsack",
+    "province": "SK",
+    "geo_data": {
+      "latitude": "51.5617752",
+      "longitude": "-101.9036328",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Saskatchewan"],
+    "_u_i_c_station_code": "VERE",
+    "name": "Veregin",
+    "short_code": "VERE",
+    "country_code": "CAN",
+    "additional_info": "Veregin",
+    "connected_stations": [],
+    "timezone": "Etc/GMT+6",
+    "address": "-",
+    "city": "Veregin",
+    "province": "SK",
+    "geo_data": {
+      "latitude": "51.58149299999999",
+      "longitude": "-102.077952",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Saskatchewan"],
+    "_u_i_c_station_code": "MIKA",
+    "name": "Mikado",
+    "short_code": "MIKA",
+    "country_code": "CAN",
+    "additional_info": "Mikado",
+    "connected_stations": [],
+    "timezone": "Etc/GMT+6",
+    "address": "-",
+    "city": "Mikado",
+    "province": "SK",
+    "geo_data": {
+      "latitude": "51.609902",
+      "longitude": "-102.270528",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Saskatchewan"],
+    "_u_i_c_station_code": "CANO",
+    "name": "Canora",
+    "short_code": "CANO",
+    "country_code": "CAN",
+    "additional_info": "Canora",
+    "connected_stations": [],
+    "timezone": "Etc/GMT+6",
+    "address": "-",
+    "city": "Canora",
+    "province": "SK",
+    "postal_code": "S0A 0L0",
+    "geo_data": {
+      "latitude": "51.637535",
+      "longitude": "-102.435783",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Saskatchewan"],
+    "_u_i_c_station_code": "STGS",
+    "name": "Sturgis",
+    "short_code": "STGS",
+    "country_code": "CAN",
+    "additional_info": "Sturgis",
+    "connected_stations": [],
+    "timezone": "Etc/GMT+6",
+    "address": "-",
+    "city": "Sturgis",
+    "province": "SK",
+    "geo_data": {
+      "latitude": "51.938098",
+      "longitude": "-102.543222",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Saskatchewan"],
+    "_u_i_c_station_code": "ENDV",
+    "name": "Endeavour",
+    "short_code": "ENDV",
+    "country_code": "CAN",
+    "additional_info": "Endeavour",
+    "connected_stations": [],
+    "timezone": "Etc/GMT+6",
+    "address": "-",
+    "city": "Endeavour",
+    "province": "SK",
+    "geo_data": {
+      "latitude": "52.158309",
+      "longitude": "-102.6524469",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Saskatchewan"],
+    "_u_i_c_station_code": "RSRV",
+    "name": "Reserve",
+    "short_code": "RSRV",
+    "country_code": "CAN",
+    "additional_info": "Reserve",
+    "connected_stations": [],
+    "timezone": "Etc/GMT+6",
+    "address": "-",
+    "city": "Reserve",
+    "province": "SK",
+    "geo_data": {
+      "latitude": "52.4708879",
+      "longitude": "-102.6473081",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Saskatchewan"],
+    "_u_i_c_station_code": "HBAY",
+    "name": "Hudson Bay",
+    "short_code": "HBAY",
+    "country_code": "CAN",
+    "additional_info": "Hudson Bay",
+    "connected_stations": [],
+    "timezone": "Etc/GMT+6",
+    "address": "-",
+    "city": "Hudson Bay",
+    "province": "SK",
+    "geo_data": {
+      "latitude": "52.8632929",
+      "longitude": "-102.3967134",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "TPAS",
+    "name": "The Pas",
+    "short_code": "TPAS",
+    "country_code": "CAN",
+    "additional_info": "The Pas",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "380 Hazelwood Ave.",
+    "city": "The Pas",
+    "province": "MB",
+    "postal_code": "R9A 1S4",
+    "geo_data": {
+      "latitude": "53.823964",
+      "longitude": "-101.247541",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "TPA"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "OROK",
+    "name": "Orok",
+    "short_code": "OROK",
+    "country_code": "CAN",
+    "additional_info": "Orok",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Orok",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "53.95780260508772",
+      "longitude": "-101.05859756469727",
+      "zoom": 12
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "HALC",
+    "name": "Halcrow",
+    "short_code": "HALC",
+    "country_code": "CAN",
+    "additional_info": "Halcrow",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Halcrow",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "54.175608",
+      "longitude": "-100.630658",
+      "zoom": 13
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "CORM",
+    "name": "Cormorant",
+    "short_code": "CORM",
+    "country_code": "CAN",
+    "additional_info": "Cormorant",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Cormorant",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "54.2234529",
+      "longitude": "-100.6025866",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "DERI",
+    "name": "Dering",
+    "short_code": "DERI",
+    "country_code": "CAN",
+    "additional_info": "Dering",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Dering",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "54.252945",
+      "longitude": "-100.5375101",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "DYCE",
+    "name": "Dyce",
+    "short_code": "DYCE",
+    "country_code": "CAN",
+    "additional_info": "Dyce",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Dyce",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "54.36448317868961",
+      "longitude": "-100.17012119293213",
+      "zoom": 14
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "WEKU",
+    "name": "Wekusko",
+    "short_code": "WEKU",
+    "country_code": "CAN",
+    "additional_info": "Wekusko",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Wekusko",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "54.5032988",
+      "longitude": "-99.7527071",
+      "zoom": 11
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "TURN",
+    "name": "Turnbull",
+    "short_code": "TURN",
+    "country_code": "CAN",
+    "additional_info": "Turnbull",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Turnbull",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "54.565692619111914",
+      "longitude": "-99.48072910308838",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "PNTN",
+    "name": "Ponton",
+    "short_code": "PNTN",
+    "country_code": "CAN",
+    "additional_info": "Ponton",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Ponton",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "54.642871",
+      "longitude": "-99.16161",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "PIPN",
+    "name": "Pipun",
+    "short_code": "PIPN",
+    "country_code": "CAN",
+    "additional_info": "Pipun",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Pipun",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "54.8400981",
+      "longitude": "-98.7531758",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "WBDN",
+    "name": "Wabowden",
+    "short_code": "WBDN",
+    "country_code": "CAN",
+    "additional_info": "Wabowden",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Wabowden",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "54.909127",
+      "longitude": "-98.63058199999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "LYDD",
+    "name": "Lyddal",
+    "short_code": "LYDD",
+    "country_code": "CAN",
+    "additional_info": "Lyddal",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Lyddal",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "55.029422",
+      "longitude": "-98.414532",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["m"],
+    "_u_i_c_station_code": "ODHI",
+    "name": "Odhill",
+    "short_code": "ODHI",
+    "country_code": "CAN",
+    "additional_info": "Odhill",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Odhill",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "55.108691",
+      "longitude": "-98.223475",
+      "zoom": 14
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "HOCK",
+    "name": "Hockin",
+    "short_code": "HOCK",
+    "country_code": "CAN",
+    "additional_info": "Hockin",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Hockin",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "55.275929",
+      "longitude": "-97.832626",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "THKP",
+    "name": "Thicket Portage",
+    "short_code": "THKP",
+    "country_code": "CAN",
+    "additional_info": "Thicket Portage",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Thicket Portage",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "55.319011769580115",
+      "longitude": "-97.6880693435669",
+      "zoom": 14
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "LEVN",
+    "name": "Leven",
+    "short_code": "LEVN",
+    "country_code": "CAN",
+    "additional_info": "Leven",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Leven",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "55.381287",
+      "longitude": "-97.54130200000002",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "THOM",
+    "name": "Thompson",
+    "short_code": "THOM",
+    "country_code": "CAN",
+    "additional_info": "Thompson",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "1310 Station Rd.",
+    "city": "Thompson",
+    "province": "MB",
+    "postal_code": "R8N 1M8",
+    "geo_data": {
+      "latitude": "55.74063959999999",
+      "longitude": "-97.82999590000001",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "THO"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "SIPI",
+    "name": "Sipiwesk",
+    "short_code": "SIPI",
+    "country_code": "CAN",
+    "additional_info": "Sipiwesk",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Sipiwesk",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "55.462715",
+      "longitude": "-97.38853089999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "PIKW",
+    "name": "Pikwitonei",
+    "short_code": "PIKW",
+    "country_code": "CAN",
+    "additional_info": "Pikwitonei",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Pikwitonei",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "55.5852",
+      "longitude": "-97.154737",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "BRGR",
+    "name": "Bridgar",
+    "short_code": "BRGR",
+    "country_code": "CAN",
+    "additional_info": "Bridgar",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Bridgar",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "55.63684199999999",
+      "longitude": "-97.06134999999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "PITS",
+    "name": "Pit Siding",
+    "short_code": "PITS",
+    "country_code": "CAN",
+    "additional_info": "Pit Siding",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Pit Siding",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "55.91519",
+      "longitude": "-96.299691",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "ILFO",
+    "name": "Ilford",
+    "short_code": "ILFO",
+    "country_code": "CAN",
+    "additional_info": "Ilford",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Ilford",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "56.06524289999999",
+      "longitude": "-95.605055",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "WVHO",
+    "name": "Wivenhoe",
+    "short_code": "WVHO",
+    "country_code": "CAN",
+    "additional_info": "Wivenhoe",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Wivenhoe",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "56.176547",
+      "longitude": "-95.213765",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "GILL",
+    "name": "Gillam",
+    "short_code": "GILL",
+    "country_code": "CAN",
+    "additional_info": "Gillam",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "252 Railway St.",
+    "city": "Gillam",
+    "province": "MB",
+    "postal_code": "R0B 0L0",
+    "geo_data": {
+      "latitude": "56.34728819999999",
+      "longitude": "-94.69956649999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "GIL"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "BIRD",
+    "name": "Bird",
+    "short_code": "BIRD",
+    "country_code": "CAN",
+    "additional_info": "Bird",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Bird",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "56.49529093375796",
+      "longitude": "-94.23484325408936",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "AMRY",
+    "name": "Amery",
+    "short_code": "AMRY",
+    "country_code": "CAN",
+    "additional_info": "Amery",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Amery",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "56.559037",
+      "longitude": "-94.07189609999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Ontario"],
+    "_u_i_c_station_code": "WEIR",
+    "name": "Weir River",
+    "short_code": "WEIR",
+    "country_code": "CAN",
+    "additional_info": "Weir River",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Weir River",
+    "province": "ON",
+    "geo_data": {
+      "latitude": "56.817819",
+      "longitude": "-94.0932948",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "THIB",
+    "name": "Thibaudeau",
+    "short_code": "THIB",
+    "country_code": "CAN",
+    "additional_info": "Thibaudeau",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Thibaudeau",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "57.082879",
+      "longitude": "-94.146446",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "HERC",
+    "name": "Herchmer",
+    "short_code": "HERC",
+    "country_code": "CAN",
+    "additional_info": "Herchmer",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Herchmer",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "57.387128",
+      "longitude": "-94.19091399999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Oday", "O Day", "Manitoba"],
+    "_u_i_c_station_code": "ODAY",
+    "name": "O'Day",
+    "short_code": "ODAY",
+    "country_code": "CAN",
+    "additional_info": "O'Day",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "O'Day",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "0.0",
+      "longitude": "0.0",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["M Clintock", "MClintock", "Manitoba"],
+    "_u_i_c_station_code": "MCLI",
+    "name": "M'Clintock",
+    "short_code": "MCLI",
+    "country_code": "CAN",
+    "additional_info": "M'Clintock",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "M'Clintock",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "57.80109100000001",
+      "longitude": "-94.21434099999999",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "CHES",
+    "name": "Chesnaye",
+    "short_code": "CHES",
+    "country_code": "CAN",
+    "additional_info": "Chesnaye",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Chesnaye",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "58.19565000000001",
+      "longitude": "-94.146912",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "TIDL",
+    "name": "Tidal",
+    "short_code": "TIDL",
+    "country_code": "CAN",
+    "additional_info": "Tidal",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "-",
+    "city": "Tidal",
+    "province": "MB",
+    "geo_data": {
+      "latitude": "58.6600072",
+      "longitude": "-94.1207811",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Manitoba"],
+    "_u_i_c_station_code": "CHUR",
+    "name": "Churchill",
+    "short_code": "CHUR",
+    "country_code": "CAN",
+    "additional_info": "Churchill",
+    "connected_stations": [],
+    "timezone": "Canada/Central",
+    "address": "1 Mantayo Seepee Meskanow",
+    "city": "Churchill",
+    "province": "MB",
+    "postal_code": "R0B 0E0",
+    "geo_data": {
+      "latitude": "58.767797",
+      "longitude": "-94.1745521",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "CHU"
+      }
+    ]
+  }
+]

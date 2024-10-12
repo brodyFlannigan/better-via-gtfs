@@ -1,0 +1,4443 @@
+{
+  "trains": [
+    {
+      "trainInfo": {
+        "trainID": 2234,
+        "validityDays": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "trainNumber": "31",
+        "classType": null,
+        "isValid": "on",
+        "hasBusinessClass": true,
+        "businessClassNoticeFR": null,
+        "businessClassNoticeEN": null,
+        "hasBaggageCheckIn": false,
+        "routeNumber": 1,
+        "validityStart": "2024-05-27",
+        "validityEnd": "2024-11-03",
+        "allYear": false
+      },
+      "schedules": {
+        "MTRL": {
+          "stationCode": "MTRL",
+          "trainNumber": "31",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": null,
+          "departureTime": {
+            "date": "1970-01-01 06:20:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DORV": {
+          "stationCode": "DORV",
+          "trainNumber": "31",
+          "transitAvailable": true,
+          "notices": [
+            "V"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 06:44:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 06:47:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "ALEX": {
+          "stationCode": "ALEX",
+          "trainNumber": "31",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 07:36:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 07:38:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "CSLM": {
+          "stationCode": "CSLM",
+          "trainNumber": "31",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 07:59:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 08:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "OTTW": {
+          "stationCode": "OTTW",
+          "trainNumber": "31",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 08:25:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": null,
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        }
+      }
+    },
+    {
+      "trainInfo": {
+        "trainID": 2233,
+        "validityDays": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "trainNumber": "31",
+        "classType": null,
+        "isValid": "on",
+        "hasBusinessClass": true,
+        "businessClassNoticeFR": null,
+        "businessClassNoticeEN": null,
+        "hasBaggageCheckIn": false,
+        "routeNumber": 1,
+        "validityStart": "2024-11-04",
+        "validityEnd": "2059-12-31",
+        "allYear": false
+      },
+      "schedules": {
+        "MTRL": {
+          "stationCode": "MTRL",
+          "trainNumber": "31",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": null,
+          "departureTime": {
+            "date": "1970-01-01 06:20:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DORV": {
+          "stationCode": "DORV",
+          "trainNumber": "31",
+          "transitAvailable": true,
+          "notices": [
+            "V"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 06:44:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 06:47:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "ALEX": {
+          "stationCode": "ALEX",
+          "trainNumber": "31",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 07:36:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 07:38:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "CSLM": {
+          "stationCode": "CSLM",
+          "trainNumber": "31",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 07:59:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 08:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "OTTW": {
+          "stationCode": "OTTW",
+          "trainNumber": "31",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 08:25:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": null,
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        }
+      }
+    },
+    {
+      "trainInfo": {
+        "trainID": 2232,
+        "validityDays": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "trainNumber": "33",
+        "classType": null,
+        "isValid": "on",
+        "hasBusinessClass": true,
+        "businessClassNoticeFR": null,
+        "businessClassNoticeEN": null,
+        "hasBaggageCheckIn": false,
+        "routeNumber": 1,
+        "validityStart": "2024-07-11",
+        "validityEnd": "2024-11-03",
+        "allYear": false
+      },
+      "schedules": {
+        "QBEC": {
+          "stationCode": "QBEC",
+          "trainNumber": "33",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": null,
+          "departureTime": {
+            "date": "1970-01-01 05:29:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SFOY": {
+          "stationCode": "SFOY",
+          "trainNumber": "33",
+          "transitAvailable": false,
+          "notices": [
+            "87"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 05:54:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 05:57:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "CHNY": {
+          "stationCode": "CHNY",
+          "trainNumber": "33",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 06:03:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 06:05:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DRMV": {
+          "stationCode": "DRMV",
+          "trainNumber": "33",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 07:26:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 07:30:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SHYA": {
+          "stationCode": "SHYA",
+          "trainNumber": "33",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 07:57:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 07:58:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SLAM": {
+          "stationCode": "SLAM",
+          "trainNumber": "33",
+          "transitAvailable": false,
+          "notices": [
+            "CS"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 08:23:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 08:24:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "MTRL": {
+          "stationCode": "MTRL",
+          "trainNumber": "33",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 08:37:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 09:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DORV": {
+          "stationCode": "DORV",
+          "trainNumber": "33",
+          "transitAvailable": true,
+          "notices": [
+            "V"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 09:24:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 09:26:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "ALEX": {
+          "stationCode": "ALEX",
+          "trainNumber": "33",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 10:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 10:12:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "CSLM": {
+          "stationCode": "CSLM",
+          "trainNumber": "33",
+          "transitAvailable": false,
+          "notices": [
+            "CS"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 10:33:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 10:34:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "OTTW": {
+          "stationCode": "OTTW",
+          "trainNumber": "33",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 11:04:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": null,
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        }
+      }
+    },
+    {
+      "trainInfo": {
+        "trainID": 2231,
+        "validityDays": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "trainNumber": "33",
+        "classType": null,
+        "isValid": "on",
+        "hasBusinessClass": true,
+        "businessClassNoticeFR": null,
+        "businessClassNoticeEN": null,
+        "hasBaggageCheckIn": false,
+        "routeNumber": 1,
+        "validityStart": "2024-11-04",
+        "validityEnd": "2059-12-31",
+        "allYear": false
+      },
+      "schedules": {
+        "QBEC": {
+          "stationCode": "QBEC",
+          "trainNumber": "33",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": null,
+          "departureTime": {
+            "date": "1970-01-01 05:29:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SFOY": {
+          "stationCode": "SFOY",
+          "trainNumber": "33",
+          "transitAvailable": false,
+          "notices": [
+            "87"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 05:54:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 05:57:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "CHNY": {
+          "stationCode": "CHNY",
+          "trainNumber": "33",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 06:03:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 06:05:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DRMV": {
+          "stationCode": "DRMV",
+          "trainNumber": "33",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 07:26:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 07:30:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SHYA": {
+          "stationCode": "SHYA",
+          "trainNumber": "33",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 07:57:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 07:58:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SLAM": {
+          "stationCode": "SLAM",
+          "trainNumber": "33",
+          "transitAvailable": false,
+          "notices": [
+            "CS"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 08:23:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 08:24:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "MTRL": {
+          "stationCode": "MTRL",
+          "trainNumber": "33",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 08:37:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 09:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DORV": {
+          "stationCode": "DORV",
+          "trainNumber": "33",
+          "transitAvailable": true,
+          "notices": [
+            "V"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 09:24:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 09:26:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "ALEX": {
+          "stationCode": "ALEX",
+          "trainNumber": "33",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 10:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 10:12:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "CSLM": {
+          "stationCode": "CSLM",
+          "trainNumber": "33",
+          "transitAvailable": false,
+          "notices": [
+            "CS"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 10:33:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 10:34:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "OTTW": {
+          "stationCode": "OTTW",
+          "trainNumber": "33",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 11:04:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": null,
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        }
+      }
+    },
+    {
+      "trainInfo": {
+        "trainID": 2229,
+        "validityDays": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "trainNumber": "35",
+        "classType": null,
+        "isValid": "on",
+        "hasBusinessClass": true,
+        "businessClassNoticeFR": null,
+        "businessClassNoticeEN": null,
+        "hasBaggageCheckIn": false,
+        "routeNumber": 1,
+        "validityStart": "2024-05-27",
+        "validityEnd": "2024-11-03",
+        "allYear": false
+      },
+      "schedules": {
+        "QBEC": {
+          "stationCode": "QBEC",
+          "trainNumber": "35",
+          "transitAvailable": true,
+          "notices": [
+            "40"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": null,
+          "departureTime": {
+            "date": "1970-01-01 08:06:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SFOY": {
+          "stationCode": "SFOY",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": [
+            "87"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 08:31:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 08:34:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "CHNY": {
+          "stationCode": "CHNY",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 08:40:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 08:42:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DRMV": {
+          "stationCode": "DRMV",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 10:14:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 10:17:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SHYA": {
+          "stationCode": "SHYA",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 10:44:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 10:46:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SLAM": {
+          "stationCode": "SLAM",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": [
+            "46",
+            "CS"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 11:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 11:13:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "MTRL": {
+          "stationCode": "MTRL",
+          "trainNumber": "35",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 11:26:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 11:54:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DORV": {
+          "stationCode": "DORV",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": [
+            "V"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 12:18:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 12:22:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "COTO": {
+          "stationCode": "COTO",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 12:46:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 12:47:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "ALEX": {
+          "stationCode": "ALEX",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 13:08:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 13:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "CSLM": {
+          "stationCode": "CSLM",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": [
+            "YY"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 13:31:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 13:33:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "OTTW": {
+          "stationCode": "OTTW",
+          "trainNumber": "35",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 13:58:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": null,
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        }
+      }
+    },
+    {
+      "trainInfo": {
+        "trainID": 2230,
+        "validityDays": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "trainNumber": "35",
+        "classType": null,
+        "isValid": "on",
+        "hasBusinessClass": true,
+        "businessClassNoticeFR": null,
+        "businessClassNoticeEN": null,
+        "hasBaggageCheckIn": false,
+        "routeNumber": 1,
+        "validityStart": "2024-11-04",
+        "validityEnd": "2059-12-31",
+        "allYear": false
+      },
+      "schedules": {
+        "QBEC": {
+          "stationCode": "QBEC",
+          "trainNumber": "35",
+          "transitAvailable": true,
+          "notices": [
+            "40"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": null,
+          "departureTime": {
+            "date": "1970-01-01 08:06:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SFOY": {
+          "stationCode": "SFOY",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": [
+            "87"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 08:31:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 08:34:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "CHNY": {
+          "stationCode": "CHNY",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 08:40:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 08:42:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DRMV": {
+          "stationCode": "DRMV",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 10:14:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 10:17:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SHYA": {
+          "stationCode": "SHYA",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 10:44:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 10:46:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SLAM": {
+          "stationCode": "SLAM",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": [
+            "46",
+            "CS"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 11:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 11:13:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "MTRL": {
+          "stationCode": "MTRL",
+          "trainNumber": "35",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 11:26:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 11:54:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DORV": {
+          "stationCode": "DORV",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": [
+            "V"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 12:18:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 12:22:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "COTO": {
+          "stationCode": "COTO",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 12:46:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 12:47:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "ALEX": {
+          "stationCode": "ALEX",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 13:08:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 13:10:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "CSLM": {
+          "stationCode": "CSLM",
+          "trainNumber": "35",
+          "transitAvailable": false,
+          "notices": [
+            "YY"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 13:31:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 13:33:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "OTTW": {
+          "stationCode": "OTTW",
+          "trainNumber": "35",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 13:58:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": null,
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        }
+      }
+    },
+    {
+      "trainInfo": {
+        "trainID": 2182,
+        "validityDays": [
+          "6",
+          "7"
+        ],
+        "trainNumber": "633",
+        "classType": null,
+        "isValid": "on",
+        "hasBusinessClass": true,
+        "businessClassNoticeFR": null,
+        "businessClassNoticeEN": null,
+        "hasBaggageCheckIn": false,
+        "routeNumber": 1,
+        "validityStart": "2024-06-01",
+        "validityEnd": "2024-11-08",
+        "allYear": false
+      },
+      "schedules": {
+        "MTRL": {
+          "stationCode": "MTRL",
+          "trainNumber": "633",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": null,
+          "departureTime": {
+            "date": "1970-01-01 09:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DORV": {
+          "stationCode": "DORV",
+          "trainNumber": "633",
+          "transitAvailable": true,
+          "notices": [
+            "V"
+          ],
+          "validityDays": [
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 09:24:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 09:27:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "ALEX": {
+          "stationCode": "ALEX",
+          "trainNumber": "633",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 10:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 10:13:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "CSLM": {
+          "stationCode": "CSLM",
+          "trainNumber": "633",
+          "transitAvailable": false,
+          "notices": [
+            "CS"
+          ],
+          "validityDays": [
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 10:34:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 10:35:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "OTTW": {
+          "stationCode": "OTTW",
+          "trainNumber": "633",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 11:05:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": null,
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        }
+      }
+    },
+    {
+      "trainInfo": {
+        "trainID": 2181,
+        "validityDays": [
+          "6",
+          "7"
+        ],
+        "trainNumber": "633",
+        "classType": null,
+        "isValid": "on",
+        "hasBusinessClass": true,
+        "businessClassNoticeFR": null,
+        "businessClassNoticeEN": null,
+        "hasBaggageCheckIn": false,
+        "routeNumber": 1,
+        "validityStart": "2024-11-09",
+        "validityEnd": "2059-12-31",
+        "allYear": false
+      },
+      "schedules": {
+        "MTRL": {
+          "stationCode": "MTRL",
+          "trainNumber": "633",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": null,
+          "departureTime": {
+            "date": "1970-01-01 09:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DORV": {
+          "stationCode": "DORV",
+          "trainNumber": "633",
+          "transitAvailable": true,
+          "notices": [
+            "V"
+          ],
+          "validityDays": [
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 09:24:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 09:27:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "ALEX": {
+          "stationCode": "ALEX",
+          "trainNumber": "633",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 10:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 10:13:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "CSLM": {
+          "stationCode": "CSLM",
+          "trainNumber": "633",
+          "transitAvailable": false,
+          "notices": [
+            "CS"
+          ],
+          "validityDays": [
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 10:34:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 10:35:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "OTTW": {
+          "stationCode": "OTTW",
+          "trainNumber": "633",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 11:05:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": null,
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        }
+      }
+    },
+    {
+      "trainInfo": {
+        "trainID": 2228,
+        "validityDays": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "trainNumber": "37",
+        "classType": null,
+        "isValid": "on",
+        "hasBusinessClass": true,
+        "businessClassNoticeFR": null,
+        "businessClassNoticeEN": null,
+        "hasBaggageCheckIn": false,
+        "routeNumber": 1,
+        "validityStart": "2024-05-30",
+        "validityEnd": "2024-11-03",
+        "allYear": false
+      },
+      "schedules": {
+        "QBEC": {
+          "stationCode": "QBEC",
+          "trainNumber": "37",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": null,
+          "departureTime": {
+            "date": "1970-01-01 12:32:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SFOY": {
+          "stationCode": "SFOY",
+          "trainNumber": "37",
+          "transitAvailable": false,
+          "notices": [
+            "87"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 12:57:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 13:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DRMV": {
+          "stationCode": "DRMV",
+          "trainNumber": "37",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 14:44:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 14:46:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SHYA": {
+          "stationCode": "SHYA",
+          "trainNumber": "37",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 15:12:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 15:14:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SLAM": {
+          "stationCode": "SLAM",
+          "trainNumber": "37",
+          "transitAvailable": false,
+          "notices": [
+            "46"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 15:39:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 15:41:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "MTRL": {
+          "stationCode": "MTRL",
+          "trainNumber": "37",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 15:54:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 16:30:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DORV": {
+          "stationCode": "DORV",
+          "trainNumber": "37",
+          "transitAvailable": false,
+          "notices": [
+            "V"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 16:54:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 16:59:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "COTO": {
+          "stationCode": "COTO",
+          "trainNumber": "37",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 17:23:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 17:24:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "ALEX": {
+          "stationCode": "ALEX",
+          "trainNumber": "37",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 17:45:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 17:46:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "OTTW": {
+          "stationCode": "OTTW",
+          "trainNumber": "37",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 18:37:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": null,
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        }
+      }
+    },
+    {
+      "trainInfo": {
+        "trainID": 2227,
+        "validityDays": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "trainNumber": "37",
+        "classType": null,
+        "isValid": "on",
+        "hasBusinessClass": true,
+        "businessClassNoticeFR": null,
+        "businessClassNoticeEN": null,
+        "hasBaggageCheckIn": false,
+        "routeNumber": 1,
+        "validityStart": "2024-11-04",
+        "validityEnd": "2059-12-31",
+        "allYear": false
+      },
+      "schedules": {
+        "QBEC": {
+          "stationCode": "QBEC",
+          "trainNumber": "37",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": null,
+          "departureTime": {
+            "date": "1970-01-01 12:32:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SFOY": {
+          "stationCode": "SFOY",
+          "trainNumber": "37",
+          "transitAvailable": false,
+          "notices": [
+            "87"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 12:57:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 13:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DRMV": {
+          "stationCode": "DRMV",
+          "trainNumber": "37",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 14:44:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 14:46:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SHYA": {
+          "stationCode": "SHYA",
+          "trainNumber": "37",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 15:12:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 15:14:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SLAM": {
+          "stationCode": "SLAM",
+          "trainNumber": "37",
+          "transitAvailable": false,
+          "notices": [
+            "46"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 15:39:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 15:41:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "MTRL": {
+          "stationCode": "MTRL",
+          "trainNumber": "37",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 15:54:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 16:30:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DORV": {
+          "stationCode": "DORV",
+          "trainNumber": "37",
+          "transitAvailable": false,
+          "notices": [
+            "V"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 16:54:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 16:59:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "COTO": {
+          "stationCode": "COTO",
+          "trainNumber": "37",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 17:23:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 17:24:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "ALEX": {
+          "stationCode": "ALEX",
+          "trainNumber": "37",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 17:45:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 17:46:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "OTTW": {
+          "stationCode": "OTTW",
+          "trainNumber": "37",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 18:36:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": null,
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        }
+      }
+    },
+    {
+      "trainInfo": {
+        "trainID": 2224,
+        "validityDays": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "trainNumber": "39",
+        "classType": null,
+        "isValid": "on",
+        "hasBusinessClass": true,
+        "businessClassNoticeFR": null,
+        "businessClassNoticeEN": null,
+        "hasBaggageCheckIn": false,
+        "routeNumber": 1,
+        "validityStart": "2024-09-18",
+        "validityEnd": "2024-11-03",
+        "allYear": false
+      },
+      "schedules": {
+        "QBEC": {
+          "stationCode": "QBEC",
+          "trainNumber": "39",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": null,
+          "departureTime": {
+            "date": "1970-01-01 14:57:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SFOY": {
+          "stationCode": "SFOY",
+          "trainNumber": "39",
+          "transitAvailable": false,
+          "notices": [
+            "87"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 15:22:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 15:24:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DRMV": {
+          "stationCode": "DRMV",
+          "trainNumber": "39",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 16:58:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 17:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SLAM": {
+          "stationCode": "SLAM",
+          "trainNumber": "39",
+          "transitAvailable": false,
+          "notices": [
+            "46"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 17:57:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 17:58:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "MTRL": {
+          "stationCode": "MTRL",
+          "trainNumber": "39",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 18:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 18:50:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DORV": {
+          "stationCode": "DORV",
+          "trainNumber": "39",
+          "transitAvailable": true,
+          "notices": [
+            "V"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 19:14:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 19:19:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "COTO": {
+          "stationCode": "COTO",
+          "trainNumber": "39",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 19:43:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 19:45:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "ALEX": {
+          "stationCode": "ALEX",
+          "trainNumber": "39",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 20:06:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 20:07:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "OTTW": {
+          "stationCode": "OTTW",
+          "trainNumber": "39",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 20:51:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": null,
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        }
+      }
+    },
+    {
+      "trainInfo": {
+        "trainID": 2223,
+        "validityDays": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "trainNumber": "39",
+        "classType": null,
+        "isValid": "on",
+        "hasBusinessClass": true,
+        "businessClassNoticeFR": null,
+        "businessClassNoticeEN": null,
+        "hasBaggageCheckIn": false,
+        "routeNumber": 1,
+        "validityStart": "2024-11-04",
+        "validityEnd": "2059-12-31",
+        "allYear": false
+      },
+      "schedules": {
+        "QBEC": {
+          "stationCode": "QBEC",
+          "trainNumber": "39",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": null,
+          "departureTime": {
+            "date": "1970-01-01 14:57:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SFOY": {
+          "stationCode": "SFOY",
+          "trainNumber": "39",
+          "transitAvailable": false,
+          "notices": [
+            "87"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 15:22:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 15:24:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DRMV": {
+          "stationCode": "DRMV",
+          "trainNumber": "39",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 16:58:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 17:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SLAM": {
+          "stationCode": "SLAM",
+          "trainNumber": "39",
+          "transitAvailable": false,
+          "notices": [
+            "46"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 17:57:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 17:58:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "MTRL": {
+          "stationCode": "MTRL",
+          "trainNumber": "39",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 18:11:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 18:50:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DORV": {
+          "stationCode": "DORV",
+          "trainNumber": "39",
+          "transitAvailable": true,
+          "notices": [
+            "V"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 19:14:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 19:19:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "COTO": {
+          "stationCode": "COTO",
+          "trainNumber": "39",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 19:43:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 19:45:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "ALEX": {
+          "stationCode": "ALEX",
+          "trainNumber": "39",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 20:06:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 20:07:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "OTTW": {
+          "stationCode": "OTTW",
+          "trainNumber": "39",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 20:51:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": null,
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        }
+      }
+    },
+    {
+      "trainInfo": {
+        "trainID": 2235,
+        "validityDays": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "trainNumber": "29",
+        "classType": null,
+        "isValid": "on",
+        "hasBusinessClass": true,
+        "businessClassNoticeFR": null,
+        "businessClassNoticeEN": null,
+        "hasBaggageCheckIn": false,
+        "routeNumber": 1,
+        "validityStart": "2024-05-27",
+        "validityEnd": "2024-11-03",
+        "allYear": false
+      },
+      "schedules": {
+        "QBEC": {
+          "stationCode": "QBEC",
+          "trainNumber": "29",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": null,
+          "departureTime": {
+            "date": "1970-01-01 17:41:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SFOY": {
+          "stationCode": "SFOY",
+          "trainNumber": "29",
+          "transitAvailable": false,
+          "notices": [
+            "87"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 18:06:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 18:08:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DRMV": {
+          "stationCode": "DRMV",
+          "trainNumber": "29",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 19:42:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 19:44:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SHYA": {
+          "stationCode": "SHYA",
+          "trainNumber": "29",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 20:18:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 20:20:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SLAM": {
+          "stationCode": "SLAM",
+          "trainNumber": "29",
+          "transitAvailable": false,
+          "notices": [
+            "46",
+            "CS"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 20:45:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 20:47:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "MTRL": {
+          "stationCode": "MTRL",
+          "trainNumber": "29",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 21:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": null,
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        }
+      }
+    },
+    {
+      "trainInfo": {
+        "trainID": 2236,
+        "validityDays": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "trainNumber": "29",
+        "classType": null,
+        "isValid": "on",
+        "hasBusinessClass": true,
+        "businessClassNoticeFR": null,
+        "businessClassNoticeEN": null,
+        "hasBaggageCheckIn": false,
+        "routeNumber": 1,
+        "validityStart": "2024-11-04",
+        "validityEnd": "2059-12-31",
+        "allYear": false
+      },
+      "schedules": {
+        "QBEC": {
+          "stationCode": "QBEC",
+          "trainNumber": "29",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": null,
+          "departureTime": {
+            "date": "1970-01-01 17:41:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SFOY": {
+          "stationCode": "SFOY",
+          "trainNumber": "29",
+          "transitAvailable": false,
+          "notices": [
+            "87"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 18:06:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 18:08:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "DRMV": {
+          "stationCode": "DRMV",
+          "trainNumber": "29",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 19:42:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 19:44:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SHYA": {
+          "stationCode": "SHYA",
+          "trainNumber": "29",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 20:18:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 20:20:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "SLAM": {
+          "stationCode": "SLAM",
+          "trainNumber": "29",
+          "transitAvailable": false,
+          "notices": [
+            "46",
+            "CS"
+          ],
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 20:45:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 20:47:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        },
+        "MTRL": {
+          "stationCode": "MTRL",
+          "trainNumber": "29",
+          "transitAvailable": true,
+          "notices": null,
+          "validityDays": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "scheduleDays": [
+            1
+          ],
+          "arrivalTime": {
+            "date": "1970-01-01 21:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": null,
+          "num": 1,
+          "timezone": {
+            "timezone_type": "0",
+            "timezone_code": "ET",
+            "timezone_label": "Eastern Time",
+            "timezone_name": "America/Toronto",
+            "timezone_gmt_offset": "-0400"
+          }
+        }
+      }
+    }
+  ],
+  "stationNotices": {
+    "40": {
+      "stopNotice": "40",
+      "descFR": "Pas de service local entre Québec et Sainte-Foy.",
+      "descEN": "No local service between Québec and Sainte-Foy."
+    },
+    "46": {
+      "stopNotice": "46",
+      "descFR": "Pas de service local entre Saint-Lambert et Montréal.",
+      "descEN": "No local service between Saint-Lambert and Montreal."
+    },
+    "87": {
+      "stopNotice": "87",
+      "descFR": "Une navette circule entre Ste Foy et Québec (Gare du Palais) dans les deux directions. Les réservations sont requises.",
+      "descEN": "Shuttle operates between Ste-Foy and Québec city (Gare du Palais) in both directions. Reservations are required."
+    },
+    "V": {
+      "stopNotice": "V",
+      "descFR": "Service de navette assuré entre la gare et l'aéroport.",
+      "descEN": "Shuttle service runs between the station and the airport."
+    },
+    "CS": {
+      "stopNotice": "CS",
+      "descFR": "Arrêt conditionnel",
+      "descEN": "Conditional stop"
+    },
+    "YY": {
+      "stopNotice": "YY",
+      "descFR": "Pour un arrêt à cette gare, les réservations sont requises au moins 40 minutes avant le départ du train de sa gare d'origine",
+      "descEN": "For a stop at this station, reservations are required at least 40 minutes before the train departs from its station of origin."
+    }
+  },
+  "generalNotices": {
+    "T7": {
+      "stopNotice": "T7",
+      "descFR": "Pas de service local entre Ottawa et Fallowfield",
+      "descEN": "No local service between Ottawa and Fallowfield"
+    },
+    "T2": {
+      "stopNotice": "T2",
+      "descFR": "Pas de service local entre Québec, Sainte-Foy et Charny",
+      "descEN": "No local service between Québec City, Sainte-Foy and Charny"
+    }
+  },
+  "stationSplit": []
+}

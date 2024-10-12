@@ -1,0 +1,100 @@
+[
+  {
+    "synonyms": ["British Columbia", "Colombie-Britannique"],
+    "_u_i_c_station_code": "DNST",
+    "name": "Dunster",
+    "short_code": "DNST",
+    "country_code": "CAN",
+    "additional_info": "Dunster",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "-",
+    "city": "Dunster",
+    "province": "BC",
+    "geo_data": {
+      "latitude": "53.123413",
+      "longitude": "-119.837813",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": []
+  },
+  {
+    "synonyms": ["Alberta"],
+    "_u_i_c_station_code": "JASP",
+    "name": "Jasper",
+    "short_code": "JASP",
+    "country_code": "CAN",
+    "additional_info": "Jasper",
+    "connected_stations": [],
+    "timezone": "Canada/Mountain",
+    "address": "607 Connaught Dr",
+    "city": "Jasper",
+    "province": "AB",
+    "postal_code": "T0E 1E0",
+    "geo_data": {
+      "latitude": "52.8761326",
+      "longitude": "-118.07960249999996",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "JAS"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "PGEO",
+    "name": "Prince George",
+    "short_code": "PGEO",
+    "country_code": "CAN",
+    "additional_info": "Prince George",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "1300- 1st Ave.",
+    "city": "Prince George",
+    "province": "BC",
+    "postal_code": "V2L 2Y3",
+    "geo_data": {
+      "latitude": "53.9191732",
+      "longitude": "-122.7442251",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "PGE"
+      }
+    ]
+  },
+  {
+    "synonyms": ["Colombie-Britannique", "British Columbia"],
+    "_u_i_c_station_code": "PRUP",
+    "name": "Prince Rupert",
+    "short_code": "PRUP",
+    "country_code": "CAN",
+    "additional_info": "Prince Rupert",
+    "connected_stations": [],
+    "timezone": "Canada/Pacific",
+    "address": "2000 Park Ave (PO Box 1033)",
+    "city": "Prince Rupert",
+    "province": "BC",
+    "postal_code": "V8J 4P7",
+    "geo_data": {
+      "latitude": "54.29587189999999",
+      "longitude": "-130.3519599",
+      "zoom": 15
+    },
+    "sequence_number": 100,
+    "meta_data": [
+      {
+        "key": "RPO",
+        "value": "PRU"
+      }
+    ]
+  }
+]

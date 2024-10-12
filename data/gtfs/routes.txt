@@ -1,0 +1,14 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color
+CAN,VIA,The Canadian,Toronto - Vancouver,2,https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian,E31018,FFFFFF
+SKN,VIA,The Skeena,Jasper - Prince George - Prince Rupert,2,https://www.viarail.ca/en/explore-our-destinations/trains/regional-trains/jasper-prince-rupert,EA63A3,FFFFFF
+HUD,VIA,The Hudson Bay,Winnipeg - The Pas - Churchill,2,https://www.viarail.ca/en/explore-our-destinations/trains/regional-trains/winnipeg-churchill,07B3FD,FFFFFF
+OMQ,VIA,VIA Rail,Ottawa - Montreal - Sainte-Foy - Québec City,2,https://www.viarail.ca/en/explore-our-destinations/trains/ontario-and-quebec/ottawa-quebec-city,323198,FFFFFF
+MKT,VIA,VIA Rail,Montreal - Kingston - Toronto,2,https://www.viarail.ca/en/explore-our-destinations/trains/ontario-and-quebec/toronto-montreal,323198,FFFFFF
+OKT,VIA,VIA Rail,Ottawa - Kingston - Toronto,2,https://www.viarail.ca/en/explore-our-destinations/trains/ontario-and-quebec/toronto-ottawa,323198,FFFFFF
+TLW,VIA,VIA Rail,Toronto - London - Windsor,2,https://www.viarail.ca/en/explore-our-destinations/trains/ontario-and-quebec/toronto-windsor,323198,FFFFFF
+TLS,VIA,VIA Rail,Toronto - London - Sarnia,2,https://www.viarail.ca/en/explore-our-destinations/trains/ontario-and-quebec/toronto-sarnia,323198,FFFFFF
+SUP,VIA,The Lake Superior,Sudbury - White River,2,https://www.viarail.ca/en/explore-our-destinations/trains/regional-trains/sudbury-white-river,2BAC82,FFFFFF
+SAG,VIA,The Saguenay,Montreal - Jonquière,2,https://www.viarail.ca/en/explore-our-destinations/trains/regional-trains/montreal-jonquiere,FF6D00,000000
+ABI,VIA,The Abitibi,Montreal - La Tuque - Senneterre,2,https://www.viarail.ca/en/explore-our-destinations/trains/regional-trains/montreal-senneterre,FF6D00,000000
+OCE,VIA,The Ocean,Montreal - Halifax,2,https://www.viarail.ca/en/explore-our-destinations/trains/atlantic-canada/montreal-halifax-ocean,0088AE,FFFFFF
+MAP,VIA,The Maple Leaf,Toronto - Niagara Falls - New York,2,https://www.viarail.ca/en/explore-our-destinations/trains/ontario-and-quebec/toronto-niagara-falls,323198,FFFFFF

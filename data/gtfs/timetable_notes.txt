@@ -1,0 +1,38 @@
+note_id,symbol,note,note_fr
+12,,"Sudbury, ON 10 Km from Sudbury Jct., ON (no shuttle service)","Sudbury, (ON) à 10 Km de Sudbury Jct. (ON) (aucun service de navette)."
+40,,No local service between Québec and Sainte-Foy.,Pas de service local entre Québec et Sainte-Foy.
+42,,"For a stop at this station, reservations are required at least 40 minutes before the train departure from the
+last station where a passenger list (L) is issued.","Pour un arrêt à cette gare, les réservations sont requises
+au moins 40 minutes avant le départ du train de la dernière gare où une liste de voyageurs (L) est émise."
+46,,No local service between Saint-Lambert and Montreal.,Pas de service local entre Saint-Lambert et Montréal.
+73,,Stops to disembark.,Arrête pour laisser descendre.
+87,,Shuttle operates between Ste-Foy and Québec city (Gare du Palais) in both directions. Reservations are required.,Une navette circule entre Ste Foy et Québec (Gare du Palais) dans les deux directions. Les réservations sont requises.
+95,,Amtrak schedules are subject to changes.,Les horaires d'Amtrak sont susceptibles d'être modifiés.
+*,,Stops on request.,Arrêt sur demande
+XX,,Stops on request when traveller is seen by train staff.,Arrête sur demande lorsque le voyageur est aperçu par le personnel du train.
+CS,,Conditional stop,Arrêt conditionnel
+CheckIn1961,,"Checked baggage is available on this train at certain stations only. For more information, please call VIA Rail (1 888 842-7245).","L’enregistrement des bagages est offert pour ce train à certaines gares seulement. Pour plus d’information, veuillez appeler VIA Rail (1 888 842-7245)."
+c2,,"For a stop at this station, reservations are required at least 40 minutes before the train departs from its station of origin.","Pour un arrêt à cette gare, les réservations sont requises au moins 40 minutes avant le départ du train de sa gare d'origine."
+YY,,"For a stop at this station, reservations are required at least 40 minutes before the train departs from its station of origin.","Pour un arrêt à cette gare, les réservations sont requises au moins 40 minutes avant le départ du train de sa gare d'origine"
+C3,,Stops on request when traveller is seen by train staff.,Arrête sur demande lorsque le voyageur est aperçu par le personnel du train.
+CheckIn1852,,"Checked baggage is available on this train at certain stations only. For more information, please call VIA Rail (1 888 842-7245).","L’enregistrement des bagages est offert pour ce train à certaines gares seulement. Pour plus d’information, veuillez appeler VIA Rail (1 888 842-7245)."
+AllYear,,Schedules are valid all year round,Horaires en vigueur toute l'année
+CheckIn1891,,"Checked baggage is available on this train at certain stations only. For more information, please call VIA Rail (1 888 842-7245).","L’enregistrement des bagages est offert pour ce train à certaines gares seulement. Pour plus d’information, veuillez appeler VIA Rail (1 888 842-7245)."
+CheckIn1856,,"Checked baggage is available on this train at certain stations only. For more information, please call VIA Rail (1 888 842-7245).","L’enregistrement des bagages est offert pour ce train à certaines gares seulement. Pour plus d’information, veuillez appeler VIA Rail (1 888 842-7245)."
+V,,Shuttle service runs between the station and the airport.,Service de navette assuré entre la gare et l'aéroport.
+CheckIn1849,,"Checked baggage is available on this train at certain stations only. For more information, please call VIA Rail (1 888 842-7245).","L’enregistrement des bagages est offert pour ce train à certaines gares seulement. Pour plus d’information, veuillez appeler VIA Rail (1 888 842-7245)."
+CSSO,,Saturdays and Sundays only,Samedi et Dimanche seulement
+CFO,,Fridays only,Vendredi seulement
+MOT,,Reservations are required at least 40 minutes before the train departure from its original station for a stop at Casselman.,"Pour un arrêt à Casselman, les réservations sont requises au moins 40 minutes avant le départ du train de sa gare d’origine."
+T4,,No local service between Montréal and Saint-Lambert,Pas de service local entre Montréal et Saint-Lambert
+T2,,"No local service between Québec City, Sainte-Foy and Charny","Pas de service local entre Québec, Sainte-Foy et Charny"
+T22,,"For a stop at this station, reservations are required at least 40 minutes before the train departs from its station of origin. Train 22 stops in Saint-Hyacinthe on Saturdays and Sundays only.","Pour un arrêt à cette gare, les réservations sont requises au moins 40 minutes avant le départ du train de sa gare d'origine. Le train 22 fait un arrêt à Saint-Hyacinthe les samedis et dimanches seulement."
+T5,,No local service between Montreal and Dorval,Pas de service local entre Montréal et Dorval
+T6,,No local service between Dorval and Montreal,Pas de service local entre Dorval et Montréal
+T7,,No local service between Ottawa and Fallowfield,Pas de service local entre Ottawa et Fallowfield
+CheckIn1846,,"Checked baggage is available on this train at certain stations only. For more information, please call VIA Rail (1 888 842-7245).","L’enregistrement des bagages est offert pour ce train à certaines gares seulement. Pour plus d’information, veuillez appeler VIA Rail (1 888 842-7245)."
+12a,,"Sudbury, ON is 10 km from Sudbury Jct., ON. No shuttle service.","Sudbury, ON est située à 10 km de Sudbury Jct., ON. Aucun service de navette."
+L,,(L),(L)
+CheckIn2130,,"Checked baggage is available on this train at certain stations only. For more information, please call VIA Rail (1 888 842-7245).","L’enregistrement des bagages est offert pour ce train à certaines gares seulement. Pour plus d’information, veuillez appeler VIA Rail (1 888 842-7245)."
+CheckIn2011,,"Checked baggage is available on this train at certain stations only. For more information, please call VIA Rail (1 888 842-7245).","L’enregistrement des bagages est offert pour ce train à certaines gares seulement. Pour plus d’information, veuillez appeler VIA Rail (1 888 842-7245)."
+CheckIn1965,,"Checked baggage is available on this train at certain stations only. For more information, please call VIA Rail (1 888 842-7245).","L’enregistrement des bagages est offert pour ce train à certaines gares seulement. Pour plus d’information, veuillez appeler VIA Rail (1 888 842-7245)."

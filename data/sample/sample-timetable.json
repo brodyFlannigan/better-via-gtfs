@@ -1,0 +1,122 @@
+{
+  "trains": [
+    {
+      "trainInfo": {
+        "trainID": 2129,
+        "validityDays": ["3", "5", "7"],
+        "trainNumber": "5",
+        "classType": null,
+        "isValid": "on",
+        "hasBusinessClass": false,
+        "businessClassNoticeFR": null,
+        "businessClassNoticeEN": null,
+        "hasBaggageCheckIn": false,
+        "routeNumber": 1,
+        "validityStart": "2024-09-24",
+        "validityEnd": "2059-12-31",
+        "allYear": true
+      },
+      "schedules": {
+        "JASP": {
+          "stationCode": "JASP",
+          "trainNumber": "5",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": ["3", "5", "7"],
+          "scheduleDays": [1],
+          "arrivalTime": null,
+          "departureTime": {
+            "date": "1970-01-01 01:45:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "-2",
+            "timezone_code": "MT",
+            "timezone_label": "Mountain Time",
+            "timezone_name": "America/Edmonton",
+            "timezone_gmt_offset": "-0600"
+          }
+        },
+        "DNST": {
+          "stationCode": "DNST",
+          "trainNumber": "5",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": ["3", "5", "7"],
+          "scheduleDays": [1],
+          "arrivalTime": {
+            "date": "1970-01-01 14:12:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 14:12:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "-3",
+            "timezone_code": "PT",
+            "timezone_label": "Pacific Time",
+            "timezone_name": "America/Vancouver",
+            "timezone_gmt_offset": "-0700"
+          }
+        },
+        "PGEO": {
+          "stationCode": "PGEO",
+          "trainNumber": "5",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": ["1", "4", "6"],
+          "scheduleDays": [1, 2],
+          "arrivalTime": {
+            "date": "1970-01-01 19:08:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": {
+            "date": "1970-01-01 08:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "num": 1,
+          "timezone": {
+            "timezone_type": "-3",
+            "timezone_code": "PT",
+            "timezone_label": "Pacific Time",
+            "timezone_name": "America/Vancouver",
+            "timezone_gmt_offset": "-0700"
+          }
+        },
+        "PRUP": {
+          "stationCode": "PRUP",
+          "trainNumber": "5",
+          "transitAvailable": false,
+          "notices": null,
+          "validityDays": ["1", "4", "6"],
+          "scheduleDays": [2],
+          "arrivalTime": {
+            "date": "1970-01-01 20:25:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          },
+          "departureTime": null,
+          "num": 1,
+          "timezone": {
+            "timezone_type": "-3",
+            "timezone_code": "PT",
+            "timezone_label": "Pacific Time",
+            "timezone_name": "America/Vancouver",
+            "timezone_gmt_offset": "-0700"
+          }
+        }
+      }
+    }
+  ],
+  "stationNotices": [],
+  "generalNotices": [],
+  "stationSplit": ["PGEO"]
+}

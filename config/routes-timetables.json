@@ -1,0 +1,593 @@
+{
+  "agencies": [
+    {
+      "agency_id": "VIA",
+      "agency_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "VIA Rail Canada"
+          }
+        ]
+      },
+      "agency_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr"
+          }
+        ]
+      },
+      "agency_lang": "en",
+      "agency_timezone": "America/Toronto",
+      "agency_phone": "1-866-VIA-RAIL",
+      "agency_fare_url": "https://reservia.viarail.ca",
+      "agency_branding_url": "https://media.viarail.ca/themes/custom/viarail_mediaroom/img/logo-black.svg"
+    }
+  ],
+  "routes": [
+    {
+      "agency_id": "VIA",
+      "route_id": "CAN",
+      "route_short_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "The Canadian"
+          },
+          {
+            "lang": "fr",
+            "translation": "Le Canadien"
+          }
+        ]
+      },
+      "route_long_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "Toronto - Vancouver"
+          }
+        ]
+      },
+      "route_type": "2",
+      "route_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific/toronto-vancouver-canadian"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr/decouvrez-nos-destinations/trains/rocheuses-et-pacifique/toronto-vancouver-le-canadien"
+          }
+        ]
+      },
+      "route_color": "E31018",
+      "route_text_color": "FFFFFF",
+      "timetable_urls": [
+        "https://www.viarail.ca/en/plan/train-schedules/toronto-winnipeg-jasper-vancouver",
+        "https://www.viarail.ca/en/plan/train-schedules/vancouver-jasper-winnipeg-toronto"
+      ]
+    },
+    {
+      "agency_id": "VIA",
+      "route_id": "SKN",
+      "route_short_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "The Skeena"
+          },
+          {
+            "lang": "fr",
+            "translation": "Le Skeena"
+          }
+        ]
+      },
+      "route_long_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "Jasper - Prince George - Prince Rupert"
+          }
+        ]
+      },
+      "route_type": "2",
+      "route_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en/explore-our-destinations/trains/regional-trains/jasper-prince-rupert"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr/decouvrez-nos-destinations/trains/trains-regionaux/jasper-prince-rupert"
+          }
+        ]
+      },
+      "route_color": "EA63A3",
+      "route_text_color": "FFFFFF",
+      "timetable_urls": [
+        "https://www.viarail.ca/en/plan/train-schedules/jasper-prince-george-prince-rupert",
+        "https://www.viarail.ca/en/plan/train-schedules/prince-rupert-prince-george-jasper"
+      ]
+    },
+    {
+      "agency_id": "VIA",
+      "route_id": "HUD",
+      "route_short_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "The Hudson Bay"
+          },
+          {
+            "lang": "fr",
+            "translation": "Le Baie d'Hudson"
+          }
+        ]
+      },
+      "route_long_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "Winnipeg - The Pas - Churchill"
+          }
+        ]
+      },
+      "route_type": "2",
+      "route_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en/explore-our-destinations/trains/regional-trains/winnipeg-churchill"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr/decouvrez-nos-destinations/trains/trains-regionaux/winnipeg-churchill"
+          }
+        ]
+      },
+      "route_color": "07B3FD",
+      "route_text_color": "FFFFFF",
+      "timetable_urls": [
+        "https://www.viarail.ca/en/plan/train-schedules/winnipeg-the-pas-churchill",
+        "https://www.viarail.ca/en/plan/train-schedules/churchill-the-pas-winnipeg"
+      ]
+    },
+    {
+      "agency_id": "VIA",
+      "route_id": "OMQ",
+      "route_short_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "VIA Rail"
+          }
+        ]
+      },
+      "route_long_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "Ottawa - Montreal - Sainte-Foy - Québec City"
+          },
+          {
+            "lang": "fr",
+            "translation": "Ottawa - Montréal - Sainte-Foy - Québec"
+          }
+        ]
+      },
+      "route_type": "2",
+      "route_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en/explore-our-destinations/trains/ontario-and-quebec/ottawa-quebec-city"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr/decouvrez-nos-destinations/trains/ontario-et-quebec/ottawa-quebec"
+          }
+        ]
+      },
+      "route_color": "323198",
+      "route_text_color": "FFFFFF",
+      "timetable_urls": [
+        "https://www.viarail.ca/en/plan/train-schedules/ottawa-montreal-sainte-foy-quebec",
+        "https://www.viarail.ca/en/plan/train-schedules/quebec-sainte-foy-montreal-ottawa"
+      ]
+    },
+    {
+      "agency_id": "VIA",
+      "route_id": "MKT",
+      "route_short_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "VIA Rail"
+          }
+        ]
+      },
+      "route_long_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "Montreal - Kingston - Toronto"
+          },
+          {
+            "lang": "fr",
+            "translation": "Montréal - Kingston - Toronto"
+          }
+        ]
+      },
+      "route_type": "2",
+      "route_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en/explore-our-destinations/trains/ontario-and-quebec/toronto-montreal"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr/decouvrez-nos-destinations/trains/quebec-et-ontario/toronto-montreal"
+          }
+        ]
+      },
+      "route_color": "323198",
+      "route_text_color": "FFFFFF",
+      "timetable_urls": [
+        "https://www.viarail.ca/en/plan/train-schedules/montreal-kingston-toronto",
+        "https://www.viarail.ca/en/plan/train-schedules/toronto-kingston-montreal"
+      ]
+    },
+    {
+      "agency_id": "VIA",
+      "route_id": "OKT",
+      "route_short_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "VIA Rail"
+          }
+        ]
+      },
+      "route_long_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "Ottawa - Kingston - Toronto"
+          }
+        ]
+      },
+      "route_type": "2",
+      "route_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en/explore-our-destinations/trains/ontario-and-quebec/toronto-ottawa"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr/decouvrez-nos-destinations/trains/quebec-et-ontario/toronto-ottawa"
+          }
+        ]
+      },
+      "route_color": "323198",
+      "route_text_color": "FFFFFF",
+      "timetable_urls": [
+        "https://www.viarail.ca/en/plan/train-schedules/ottawa-kingston-toronto",
+        "https://www.viarail.ca/en/plan/train-schedules/toronto-kingston-ottawa"
+      ]
+    },
+    {
+      "agency_id": "VIA",
+      "route_id": "TLW",
+      "route_short_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "VIA Rail"
+          }
+        ]
+      },
+      "route_long_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "Toronto - London - Windsor"
+          }
+        ]
+      },
+      "route_type": "2",
+      "route_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en/explore-our-destinations/trains/ontario-and-quebec/toronto-windsor"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr/decouvrez-nos-destinations/trains/quebec-et-ontario/toronto-windsor"
+          }
+        ]
+      },
+      "route_color": "323198",
+      "route_text_color": "FFFFFF",
+      "timetable_urls": [
+        "https://www.viarail.ca/en/plan/train-schedules/toronto-london-windsor",
+        "https://www.viarail.ca/en/plan/train-schedules/windsor-london-toronto"
+      ]
+    },
+    {
+      "agency_id": "VIA",
+      "route_id": "TLS",
+      "route_short_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "VIA Rail"
+          }
+        ]
+      },
+      "route_long_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "Toronto - London - Sarnia"
+          }
+        ]
+      },
+      "route_type": "2",
+      "route_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en/explore-our-destinations/trains/ontario-and-quebec/toronto-sarnia"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr/decouvrez-nos-destinations/trains/quebec-et-ontario/toronto-sarnia"
+          }
+        ]
+      },
+      "route_color": "323198",
+      "route_text_color": "FFFFFF",
+      "timetable_urls": [
+        "https://www.viarail.ca/en/plan/train-schedules/toronto-london-sarnia",
+        "https://www.viarail.ca/en/plan/train-schedules/sarnia-london-toronto"
+      ]
+    },
+    {
+      "agency_id": "VIA",
+      "route_id": "SUP",
+      "route_short_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "The Lake Superior"
+          },
+          {
+            "lang": "fr",
+            "translation": "Le Lac Supérieur"
+          }
+        ]
+      },
+      "route_long_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "Sudbury - White River"
+          }
+        ]
+      },
+      "route_type": "2",
+      "route_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en/explore-our-destinations/trains/regional-trains/sudbury-white-river"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr/decouvrez-nos-destinations/trains/trains-regionaux/sudbury-white-river"
+          }
+        ]
+      },
+      "route_color": "2BAC82",
+      "route_text_color": "FFFFFF",
+      "timetable_urls": [
+        "https://www.viarail.ca/en/plan/train-schedules/sudbury-white-river",
+        "https://www.viarail.ca/en/plan/train-schedules/white-river-sudbury"
+      ]
+    },
+    {
+      "agency_id": "VIA",
+      "route_id": "SAG",
+      "route_short_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "The Saguenay"
+          },
+          {
+            "lang": "fr",
+            "translation": "Le Saguenay"
+          }
+        ]
+      },
+      "route_long_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "Montreal - Jonquière"
+          },
+          {
+            "lang": "fr",
+            "translation": "Montréal - Jonquière"
+          }
+        ]
+      },
+      "route_type": "2",
+      "route_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en/explore-our-destinations/trains/regional-trains/montreal-jonquiere"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr/decouvrez-nos-destinations/trains/trains-regionaux/montreal-jonquiere"
+          }
+        ]
+      },
+      "route_color": "FF6D00",
+      "route_text_color": "000000",
+      "timetable_urls": [
+        "https://www.viarail.ca/en/plan/train-schedules/montreal-jonquiere",
+        "https://www.viarail.ca/en/plan/train-schedules/jonquiere-montreal"
+      ]
+    },
+    {
+      "agency_id": "VIA",
+      "route_id": "ABI",
+      "route_short_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "The Abitibi"
+          },
+          {
+            "lang": "fr",
+            "translation": "L'Abitibi"
+          }
+        ]
+      },
+      "route_long_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "Montreal - La Tuque - Senneterre"
+          },
+          {
+            "lang": "fr",
+            "translation": "Montréal - La Tuque - Senneterre"
+          }
+        ]
+      },
+      "route_type": "2",
+      "route_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en/explore-our-destinations/trains/regional-trains/montreal-senneterre"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr/decouvrez-nos-destinations/trains/trains-regionaux/montreal-senneterre"
+          }
+        ]
+      },
+      "route_color": "FF6D00",
+      "route_text_color": "000000",
+      "timetable_urls": [
+        "https://www.viarail.ca/en/plan/train-schedules/montreal-la-tuque-senneterre",
+        "https://www.viarail.ca/en/plan/train-schedules/senneterre-la-tuque-montreal"
+      ]
+    },
+    {
+      "agency_id": "VIA",
+      "route_id": "OCE",
+      "route_short_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "The Ocean"
+          },
+          {
+            "lang": "fr",
+            "translation": "L'Océan"
+          }
+        ]
+      },
+      "route_long_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "Montreal - Halifax"
+          },
+          {
+            "lang": "fr",
+            "translation": "Montréal - Halifax"
+          }
+        ]
+      },
+      "route_type": "2",
+      "route_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en/explore-our-destinations/trains/atlantic-canada/montreal-halifax-ocean"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr/decouvrez-nos-destinations/trains/atlantique/montreal-halifax-locean"
+          }
+        ]
+      },
+      "route_color": "0088AE",
+      "route_text_color": "FFFFFF",
+      "timetable_urls": [
+        "https://www.viarail.ca/en/plan/train-schedules/montreal-halifax",
+        "https://www.viarail.ca/en/plan/train-schedules/halifax-montreal"
+      ]
+    },
+    {
+      "agency_id": "VIA",
+      "route_id": "MAP",
+      "route_short_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "The Maple Leaf"
+          },
+          {
+            "lang": "fr",
+            "translation": "Le Maple Leaf"
+          }
+        ]
+      },
+      "route_long_name": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "Toronto - Niagara Falls - New York"
+          }
+        ]
+      },
+      "route_type": "2",
+      "route_url": {
+        "translations": [
+          {
+            "lang": "en",
+            "translation": "https://www.viarail.ca/en/explore-our-destinations/trains/ontario-and-quebec/toronto-niagara-falls"
+          },
+          {
+            "lang": "fr",
+            "translation": "https://www.viarail.ca/fr/decouvrez-nos-destinations/trains/quebec-et-ontario/toronto-niagara-falls"
+          }
+        ]
+      },
+      "route_color": "323198",
+      "route_text_color": "FFFFFF",
+      "timetable_urls": [
+        "https://www.viarail.ca/en/plan/train-schedules/toronto-niagara-falls-new-york",
+        "https://www.viarail.ca/en/plan/train-schedules/new-york-niagara-falls-toronto"
+      ]
+    }
+  ]
+}
